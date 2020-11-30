@@ -1,0 +1,1 @@
+A crypto faucet is a website or an app that distributes rewards in exchange for viewing ads, captcha completion, and prizes from simple games. Most of these sites are geared toward you viewing an obscene amount of ads so it is up to you whether it is worth it.
