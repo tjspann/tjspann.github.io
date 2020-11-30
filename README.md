@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+TOC
 
-You can use the [editor on GitHub](https://github.com/tjspann/tjspann.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction to Crypto
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{% include_relative Introduction.md %}
 
-### Markdown
+### What is Cryptocurreny
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{% include_relative WhatisThis.md %}
 
-```markdown
-Syntax highlighted code block
+### Exchanges
 
-# Header 1
-## Header 2
-### Header 3
+{% include_relative Exchanges.md %}
 
-- Bulleted
-- List
+### Wallets
 
-1. Numbered
-2. List
+{% include_relative Wallets.md %}
 
-**Bold** and _Italic_ and `Code` text
+### Faucets
 
-[Link](url) and ![Image](src)
-```
+{% include_relative Faucets.md %}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Games
 
-### Jekyll Themes
+{% include_relative CryptoGames.md %}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjspann/tjspann.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Other
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+{% include_relative Other.md %}
