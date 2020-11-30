@@ -14,6 +14,8 @@ TOC
 
 ### Wallets
 
+{% include Wallets.md %}
+
 ### Faucets
 
 ### Airdrops
