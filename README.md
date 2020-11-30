@@ -1,6 +1,6 @@
 TOC
 
-## Introduction to Crypto
+### Introduction to Crypto
 
 {% include Introduction.md %}
 
@@ -13,7 +13,6 @@ TOC
 {% include Exchanges.md %}
 
 ### Wallets
-
 
 ### Faucets
 
