@@ -10,6 +10,7 @@ TOC
 
 ### Exchanges
 
+{% include Exchanges.md %}
 
 ### Wallets
 
