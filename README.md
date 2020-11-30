@@ -1,4 +1,4 @@
-##### Table of Contents  
+### Table of Contents  
 [Introduction](#introduction-to-crypto)  
 [What is Crytocurrency](#what-is-cryptocurreny)  
 [Exchanges](#exchanges)  
