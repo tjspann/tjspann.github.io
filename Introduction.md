@@ -1,0 +1,3 @@
+Hi, I'm TJ 👋
+
+I'm here to give you a straightforward introduction into the world of cryptocurrency, and show you some ways you can make a bit along the way. Look around, you don't see any ads (or blank ad spaces!) here, and I'm not trying to sell you anything. I do however have a huge pile of referrals to give away - and most of them include free crypto! I'll tell you up front what to expect with each site along the way, and if there's a better deal available without the referral link, I'll give you that instead. Check out the table of contents above and jump to a section, or lets dive in below!
