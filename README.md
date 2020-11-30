@@ -2,7 +2,7 @@ TOC
 
 ## Introduction to Crypto
 
-{% include_relative Introduction.md %}
+{% include Introduction.md %}
 
 ### What is Cryptocurreny
 
