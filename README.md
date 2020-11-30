@@ -1,4 +1,12 @@
-TOC
+##### Table of Contents  
+[Introduction](#introduction-to-crypto)  
+[What is Crytocurrency](#what-is-cryptocurreny)  
+[Exchanges](#exchanges)  
+[Wallets](#wallets)  
+[Faucets](#faucets)  
+[Airdrops](#airdrops)  
+[Games / DApps](#games-and-dapps)  
+[About](#about)  
 
 ### Introduction to Crypto
 
@@ -18,10 +26,11 @@ TOC
 
 ### Faucets
 
+{% include Faucets.md %}
+
 ### Airdrops
 
-### Games
+### Games and DApps
 
-
-### Other
+### About
 
