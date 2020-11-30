@@ -6,6 +6,7 @@ TOC
 
 ### What is Cryptocurreny
 
+{% include WhatisThis.md %}
 
 ### Exchanges
 
