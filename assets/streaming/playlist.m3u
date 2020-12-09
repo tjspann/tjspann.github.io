@@ -3,6 +3,15 @@
 #EXTINF:0 tvg-name="The Weather Channel" tvg-language="English" tvg-country="US" tvg-id="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News",The Weather Channel (News) (US) (English)
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
+#EXTINF:0 tvg-name="NewsMax" tvg-language="English" tvg-country="US" tvg-id="NewsMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrTd34lRq7Y5EUgoGU4xGi_y9T5t9L82qESV6Gip_UuQn-CJis-pCyHY" group-title="Public-News",NewsMax (Public-News) (US) (English)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:0 tvg-name="Newsy" tvg-language="English" tvg-country="US" tvg-id="Newsy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkr_yedcOx-ppG-7Aw7pQZSX_fgM5z4vccZ2ZyM_nWLymKPUESiGfpzY" group-title="Public-News",Newsy (Public-News) (US) (English)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:0 tvg-name="Cheddar Big News" tvg-language="English" tvg-country="US" tvg-id="Cheddar Big News" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png" group-title="Public-News",Cheddar Big News (Public-News) (US) (English)
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+
 #EXTINF:0 tvg-name="Flow Sports 1" tvg-language="English" tvg-country="UK" tvg-id="Flow Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5TOrbFYQYZm6G61y3HMTmQmFBrCfPiRO_AXx33Mv0XaVeL0O2QQaf6w" group-title="Public-Sports",Flow Sports 1 (Public-Sports) (UK) (English)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 up_-_Ads/214/14/2018_CT6_5044345_301516734272141_%2C3%2C55%2C40%2C22%2C14%2C9%2C6%2C00k.mp4.csmil/master.m3u8?__b__=1400
@@ -25,20 +34,11 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0 tvg-name="Bloomberg TV" tvg-language="English" tvg-country="UK" tvg-id="Bloomberg TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOspVI6710VEVAREeejbkWo2KbUS5joQBvGAWtdUxa6lzOSOq8v5Obg" group-title="Public-News",Bloomberg TV (Public-News) (UK) (English)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:0 tvg-name="NewsMax" tvg-language="English" tvg-country="US" tvg-id="NewsMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrTd34lRq7Y5EUgoGU4xGi_y9T5t9L82qESV6Gip_UuQn-CJis-pCyHY" group-title="Public-News",NewsMax (Public-News) (US) (English)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:0 tvg-name="Newsy" tvg-language="English" tvg-country="US" tvg-id="Newsy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkr_yedcOx-ppG-7Aw7pQZSX_fgM5z4vccZ2ZyM_nWLymKPUESiGfpzY" group-title="Public-News",Newsy (Public-News) (US) (English)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-
 #EXTINF:0 tvg-name="Smithsonian Channel" tvg-language="English" tvg-country="US" tvg-id="Smithsonian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Cjqlh_wEcANoYs1scui11GpE5XVywWKf2eSTgpOA1o_AkDOcpOtehoY" group-title="Public-Entertainment",Smithsonian Channel (Public-Entertainment) (US) (English)
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
 #EXTINF:0 tvg-name="Smithsonian Channel" tvg-language="English" tvg-country="US" tvg-id="Smithsonian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Cjqlh_wEcANoYs1scui11GpE5XVywWKf2eSTgpOA1o_AkDOcpOtehoY" group-title="Public-Entertainment",Smithsonian Channel (Public-Entertainment) (US) (English)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
-#EXTINF:0 tvg-name="Cheddar Big News" tvg-language="English" tvg-country="US" tvg-id="Cheddar Big News" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png" group-title="Public-News",Cheddar Big News (Public-News) (US) (English)
-https://live.chdrstatic.com/cbn/primary/1.m3u8
 
 #EXTINF:0 tvg-name="CBS 4 HD New York" tvg-language="English" tvg-country="US" tvg-id="CBS HD New York" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVnbYJwObFSCxkqMqlaUCQ0KiqrR4qEG4HZNBVOtGsOK_Fj1uS_dZ5w" group-title="Public-Entertainment",CBS HD New York (Public-Entertainment) (US) (English)
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
@@ -96,6 +96,30 @@ https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
 
 #EXTINF:0 tvg-name="Bloomberg TV (Opt1 US EAST)" tvg-language="English" tvg-country="US" tvg-id="Bloomberg TV (Opt1 US EAST)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5p9QpG34wPS4wR4PWQ8eqtkb7fbjfCVRN2pBKUK9nl7g9MMYZlXAohZ8" group-title="Public-News",Bloomberg TV (Opt1 US EAST) (Public-News) (US) (English)
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:0 tvg-name="KOTV News On 6 Tulsa Opt1" tvg-language="English" tvg-country="US" tvg-id="KOTV News On 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kotv/kotv1/playlist.m3u8
+
+#EXTINF:0 tvg-name="KOTV News On 6 Tulsa Opt2" tvg-language="English" tvg-country="US" tvg-id="KOTV News On 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kotv/kotv2/playlist.m3u8
+
+#EXTINF:0 tvg-name="KOTV News On 6 Tulsa Opt3" tvg-language="English" tvg-country="US" tvg-id="KOTV News On 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kotv/kotv3/playlist.m3u8
+
+#EXTINF:0 tvg-name="KOTV News On 6 Tulsa Opt4" tvg-language="English" tvg-country="US" tvg-id="KOTV News On 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kotv/kotv4/playlist.m3u8
+
+#EXTINF:0 tvg-name="KWTV News9 Oklahoma City Opt1" tvg-language="English" tvg-country="US" tvg-id="KWTV News9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kwtv/kwtv1/playlist.m3u8
+
+#EXTINF:0 tvg-name="KWTV News9 Oklahoma City Opt2" tvg-language="English" tvg-country="US" tvg-id="KWTV News9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kwtv/kwtv2/playlist.m3u8
+
+#EXTINF:0 tvg-name="KWTV News9 Oklahoma City Opt3" tvg-language="English" tvg-country="US" tvg-id="KWTV News9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kwtv/kwtv3/playlist.m3u8
+
+#EXTINF:0 tvg-name="KWTV News9 Oklahoma City Opt4" tvg-language="English" tvg-country="US" tvg-id="KWTV News9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",KWTV News9 (Public-News) (US) (English)
+https://live.field59.com/kwtv/kwtv4/playlist.m3u8
 
 #EXTINF:0 tvg-name="WTVC NewsChannel 9 Chattanooga" tvg-language="English" tvg-country="US" tvg-id="WTVC NewsChannel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzLYt6C1qRqkKHkRNm5htnlyric_U0x4NZPXCmFuQNAzWySvraR9FnZo" group-title="Public-News",WTVC NewsChannel 9 (Public-News) (US) (English)
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
