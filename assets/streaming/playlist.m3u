@@ -3,15 +3,6 @@
 #EXTINF:0 tvg-name="The Weather Channel" tvg-language="English" tvg-country="US" tvg-id="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News",The Weather Channel (News) (US) (English)
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:0 tvg-name="Bloomberg TV" tvg-language="English" tvg-country="IN" tvg-id="Bloomberg TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWNB31QsdKPHsqdeB_7lfqwqY9Ga5y9eA_olgqnfBtfmmGIsEKRHnhy6SP" group-title="News",Bloomberg TV (News) (IN) (English)
-http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
-
-#EXTINF:0 tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="http://www.exchange4media.com/storyimages/fs_52660.jpg" group-title="News",News X (News) (IN) (English)
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
-
-#EXTINF:0 tvg-name="WFMZ Allentown" tvg-language="English" tvg-country="US" tvg-id="WFMZ Allentown" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnlS4wpbDQkfi5KyJiITC_GBFB1vJJR2dB8g3DPBNMe_WgubeSujHMw" group-title="Public-News",WFMZ Allentown (Public-News) (US) (English)
-http://wfmz_live-lh.akamaihd.net/i/002zrxx41_1@167551/master.m3u8
-
 #EXTINF:0 tvg-name="Bloomberg News US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg News US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" group-title="Public-Entertainment",Bloomberg News US (Public-Entertainment) (US) (English)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
