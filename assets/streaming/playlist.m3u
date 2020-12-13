@@ -3,14 +3,14 @@
 #EXTINF:0 tvg-name="The Weather Channel" tvg-language="English" tvg-country="US" tvg-id="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News",The Weather Channel (News) (US) (English)
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:0 tvg-name="NewsMax" tvg-language="English" tvg-country="US" tvg-id="NewsMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrTd34lRq7Y5EUgoGU4xGi_y9T5t9L82qESV6Gip_UuQn-CJis-pCyHY" group-title="Public-News",NewsMax (Public-News) (US) (English)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
 #EXTINF:0 tvg-name="Newsy" tvg-language="English" tvg-country="US" tvg-id="Newsy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkr_yedcOx-ppG-7Aw7pQZSX_fgM5z4vccZ2ZyM_nWLymKPUESiGfpzY" group-title="Public-News",Newsy (Public-News) (US) (English)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:0 tvg-name="Cheddar Big News" tvg-language="English" tvg-country="US" tvg-id="Cheddar Big News" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png" group-title="Public-News",Cheddar Big News (Public-News) (US) (English)
 https://live.chdrstatic.com/cbn/primary/1.m3u8
+
+#EXTINF:0 tvg-name="NewsMax" tvg-language="English" tvg-country="US" tvg-id="NewsMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrTd34lRq7Y5EUgoGU4xGi_y9T5t9L82qESV6Gip_UuQn-CJis-pCyHY" group-title="Public-News",NewsMax (Public-News) (US) (English)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:0 tvg-name="Flow Sports 1" tvg-language="English" tvg-country="UK" tvg-id="Flow Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5TOrbFYQYZm6G61y3HMTmQmFBrCfPiRO_AXx33Mv0XaVeL0O2QQaf6w" group-title="Public-Sports",Flow Sports 1 (Public-Sports) (UK) (English)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
@@ -140,3 +140,66 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 
 #EXTINF:0 tvg-name="CGTN ENGLISH" tvg-language="English" tvg-country="US" tvg-id="CGTN ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6D8mq9hgbInLYkLjIWQBZwzIIr_qt33yskb-3HEAhByCeVNYstB2QoRg" group-title="Public-News",CGTN ENGLISH (Public-News) (US) (English)
 http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png",SHOWTIME
+http://vvn.neoredi.com/iptv/ch3536?code=8601338691674826&key=55698
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png",USA Net.
+http://vvn.neoredi.com/iptv/ch3537?code=8601338691674826&key=52146
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png",MLB Net.
+http://vvn.neoredi.com/iptv/ch3538?code=8601338691674826&key=44711
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png",TBS HD
+http://vvn.neoredi.com/iptv/ch3509?code=8601338691674826&key=35342
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png",TNT HD
+http://vvn.neoredi.com/iptv/ch3508?code=8601338691674826&key=38265
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png",FOX HD
+http://vvn.neoredi.com/iptv/ch3520?code=8601338691674826&key=38096
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png",AMC HD
+http://vvn.neoredi.com/iptv/ch3528?code=8601338691674826&key=46099
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png",E. USA
+http://vvn.neoredi.com/iptv/ch3506?code=8601338691674826&key=42746
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png",TLC HD
+http://vvn.neoredi.com/iptv/ch3503?code=8601338691674826&key=26270
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png",HBO
+http://vvn.neoredi.com/iptv/ch3535?code=8601338691674826&key=28724
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png",HBO Zone
+http://vvn.neoredi.com/iptv/ch3534?code=8601338691674826&key=53995
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png",HBO Signature
+http://vvn.neoredi.com/iptv/ch3533?code=8601338691674826&key=55642
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png",HBO Comedy
+http://vvn.neoredi.com/iptv/ch3532?code=8601338691674826&key=53952
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png",FXX
+http://vvn.neoredi.com/iptv/ch3531?code=8601338691674826&key=29056
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png",FX
+http://vvn.neoredi.com/iptv/ch3530?code=8601338691674826&key=24701
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png",Action Max HD
+http://vvn.neoredi.com/iptv/ch3527?code=8601338691674826&key=14720
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png",ABC news
+http://vvn.neoredi.com/iptv/ch3504?code=8601338691674826&key=11437
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png",HG TV
+http://vvn.neoredi.com/iptv/ch3501?code=8601338691674826&key=23290
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=8601338691674826&key=61270
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=8601338691674826&key=21916
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=8601338691674826&key=50778
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=8601338691674826&key=50917
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=8601338691674826&key=40035
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
+http://vvn.neoredi.com/iptv/ch3513?code=8601338691674826&key=30356
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=8601338691674826&key=23881
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=8601338691674826&key=16615
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
+http://vvn.neoredi.com/iptv/ch3511?code=8601338691674826&key=54244
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=8601338691674826&key=60519
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
+http://vvn.neoredi.com/iptv/ch1833?code=8601338691674826&key=52699
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
+http://vvn.neoredi.com/iptv/ch932?code=8601338691674826&key=41359
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1855.png",PBS America UK
+http://vvn.neoredi.com/iptv/ch1855?code=8601338691674826&key=25953
