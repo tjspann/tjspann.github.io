@@ -2,11 +2,11 @@ Cryptocurrency exchanges are online platforms in which you can exchange one kind
 
 - [Coinbase](https://www.coinbase.com/): Right up front on their website they offer $5 USD in BTC, just for signing up. See, I told you there was free money involved. Want more? [Use this link instead](https://www.coinbase.com/join/spann_z7n) and we'll both get $10 USD in BTC after you move $100 USD worth of cash or crypto through your account. It's a little more work for double the free BTC. Still want more? Check out Coinbase Earn, where you can earn up to $150 USD in free crypto by watching short videos to learn about crypto. Some of the courses are locked, just come back and click these links to unlock them after a short wait:
 
-  1. COMP - Compound: https://coinbase.com/earn/comp/invite/pmcdsvtq
+  1. [COMP - Compound](https://coinbase.com/earn/comp/invite/pmcdsvtq)
   
-  2. BAND - Band Protocol: https://coinbase.com/earn/band/invite/bz6cvp8m
+  2. [BAND - Band Protocol](https://coinbase.com/earn/band/invite/bz6cvp8m)
   
-  3. XLM - Stellar Lumens: https://coinbase.com/earn/xlm/invite/7vzx1rq5
+  3. [XLM - Stellar Lumens](https://coinbase.com/earn/xlm/invite/7vzx1rq5)
   
 ---
 
