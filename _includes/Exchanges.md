@@ -8,7 +8,7 @@ Cryptocurrency exchanges are online platforms in which you can exchange one kind
   
   3. XLM - Stellar Lumens: https://coinbase.com/earn/xlm/invite/7vzx1rq5
   
-  ---
+---
 
 These are actually more akin to crypto banking services.
 
