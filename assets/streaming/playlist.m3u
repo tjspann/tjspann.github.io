@@ -141,309 +141,1287 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 #EXTINF:0 tvg-name="CGTN ENGLISH" tvg-language="English" tvg-country="US" tvg-id="CGTN ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6D8mq9hgbInLYkLjIWQBZwzIIr_qt33yskb-3HEAhByCeVNYstB2QoRg" group-title="Public-News",CGTN ENGLISH (Public-News) (US) (English)
 http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png",ABC
-http://vvn.neoredi.com/iptv/ch3507?code=8601338691674826&key=19745
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png",SHOWTIME
-http://vvn.neoredi.com/iptv/ch3536?code=8601338691674826&key=55698
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png",USA Net.
-http://vvn.neoredi.com/iptv/ch3537?code=8601338691674826&key=52146
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png",MLB Net.
-http://vvn.neoredi.com/iptv/ch3538?code=8601338691674826&key=44711
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png",TBS HD
-http://vvn.neoredi.com/iptv/ch3509?code=8601338691674826&key=35342
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png",TNT HD
-http://vvn.neoredi.com/iptv/ch3508?code=8601338691674826&key=38265
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png",FOX HD
-http://vvn.neoredi.com/iptv/ch3520?code=8601338691674826&key=38096
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png",AMC HD
-http://vvn.neoredi.com/iptv/ch3528?code=8601338691674826&key=46099
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png",E. USA
-http://vvn.neoredi.com/iptv/ch3506?code=8601338691674826&key=42746
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png",CBS HD
-http://vvn.neoredi.com/iptv/ch3519?code=8601338691674826&key=15078
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png",TLC HD
-http://vvn.neoredi.com/iptv/ch3503?code=8601338691674826&key=26270
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png",HBO
-http://vvn.neoredi.com/iptv/ch3535?code=8601338691674826&key=28724
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png",HBO Zone
-http://vvn.neoredi.com/iptv/ch3534?code=8601338691674826&key=53995
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png",HBO Signature
-http://vvn.neoredi.com/iptv/ch3533?code=8601338691674826&key=55642
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png",HBO Comedy
-http://vvn.neoredi.com/iptv/ch3532?code=8601338691674826&key=53952
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png",FXX
-http://vvn.neoredi.com/iptv/ch3531?code=8601338691674826&key=29056
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png",FX
-http://vvn.neoredi.com/iptv/ch3530?code=8601338691674826&key=24701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png",Action Max HD
-http://vvn.neoredi.com/iptv/ch3527?code=8601338691674826&key=14720
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png",ABC news
-http://vvn.neoredi.com/iptv/ch3504?code=8601338691674826&key=11437
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png",HG TV
-http://vvn.neoredi.com/iptv/ch3501?code=8601338691674826&key=23290
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png",Viceland
-http://vvn.neoredi.com/iptv/ch3502?code=8601338691674826&key=32043
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
-http://vvn.neoredi.com/iptv/ch3529?code=8601338691674826&key=22106
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
-http://vvn.neoredi.com/iptv/ch3522?code=8601338691674826&key=12157
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-http://vvn.neoredi.com/iptv/ch3525?code=8601338691674826&key=51646
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
-http://vvn.neoredi.com/iptv/ch3523?code=8601338691674826&key=54617
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
-http://vvn.neoredi.com/iptv/ch3524?code=8601338691674826&key=24582
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
-http://vvn.neoredi.com/iptv/ch3526?code=8601338691674826&key=38701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
-http://vvn.neoredi.com/iptv/ch3521?code=8601338691674826&key=61270
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
-http://vvn.neoredi.com/iptv/ch3518?code=8601338691674826&key=21916
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
-http://vvn.neoredi.com/iptv/ch3517?code=8601338691674826&key=50778
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
-http://vvn.neoredi.com/iptv/ch3516?code=8601338691674826&key=50917
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
-http://vvn.neoredi.com/iptv/ch3515?code=8601338691674826&key=40035
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
-http://vvn.neoredi.com/iptv/ch3513?code=8601338691674826&key=30356
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
-http://vvn.neoredi.com/iptv/ch3514?code=8601338691674826&key=23881
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
-http://vvn.neoredi.com/iptv/ch3512?code=8601338691674826&key=16615
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
-http://vvn.neoredi.com/iptv/ch3511?code=8601338691674826&key=54244
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
-http://vvn.neoredi.com/iptv/ch3510?code=8601338691674826&key=60519
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png",Willow cricket HD
-http://vvn.neoredi.com/iptv/ch3505?code=8601338691674826&key=33017
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1860.png",BBC News
-http://vvn.neoredi.com/iptv/ch1860?code=8601338691674826&key=12677
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1800.png",BBC1
-http://vvn.neoredi.com/iptv/ch1800?code=8601338691674826&key=47310
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1801.png",BBC2
-http://vvn.neoredi.com/iptv/ch1801?code=8601338691674826&key=33734
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1802.png",CBBC
-http://vvn.neoredi.com/iptv/ch1802?code=8601338691674826&key=40731
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1803.png",BBC4
-http://vvn.neoredi.com/iptv/ch1803?code=8601338691674826&key=31277
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1898.png",CNN UK
-http://vvn.neoredi.com/iptv/ch1898?code=8601338691674826&key=24660
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1805.png",ITV 1 UK
-http://vvn.neoredi.com/iptv/ch1805?code=8601338691674826&key=58699
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1806.png",ITV 2 UK
-http://vvn.neoredi.com/iptv/ch1806?code=8601338691674826&key=50780
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1946.png",Itv 3 UK
-http://vvn.neoredi.com/iptv/ch1946?code=8601338691674826&key=32166
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1808.png",ITV 4 UK
-http://vvn.neoredi.com/iptv/ch1808?code=8601338691674826&key=38326
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1804.png",ITV BE
-http://vvn.neoredi.com/iptv/ch1804?code=8601338691674826&key=26076
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1807.png",C ITV
-http://vvn.neoredi.com/iptv/ch1807?code=8601338691674826&key=37341
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1816.png",STV UK HD
-http://vvn.neoredi.com/iptv/ch1816?code=8601338691674826&key=50627
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1892.png",UTV UK HD
-http://vvn.neoredi.com/iptv/ch1892?code=8601338691674826&key=40337
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/911.png",Channel 5 UK
-http://vvn.neoredi.com/iptv/ch911?code=8601338691674826&key=19838
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1938.png",5 USA UK
-http://vvn.neoredi.com/iptv/ch1938?code=8601338691674826&key=59081
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1894.png",5 Stars UK
-http://vvn.neoredi.com/iptv/ch1894?code=8601338691674826&key=47955
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1896.png",My 5 UK
-http://vvn.neoredi.com/iptv/ch1896?code=8601338691674826&key=33694
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/910.png",Channel 4 UK
-http://vvn.neoredi.com/iptv/ch910?code=8601338691674826&key=11492
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1891.png",Film 4 UK
-http://vvn.neoredi.com/iptv/ch1891?code=8601338691674826&key=22405
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1934.png",4 Music UK
-http://vvn.neoredi.com/iptv/ch1934?code=8601338691674826&key=21472
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1813.png",E-4 UK
-http://vvn.neoredi.com/iptv/ch1813?code=8601338691674826&key=22082
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1812.png",4 Seven UK
-http://vvn.neoredi.com/iptv/ch1812?code=8601338691674826&key=40264
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1940.png",More 4 UK
-http://vvn.neoredi.com/iptv/ch1940?code=8601338691674826&key=50495
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1835.png",CBS Reality
-http://vvn.neoredi.com/iptv/ch1835?code=8601338691674826&key=36212
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1836.png",CBS Action
-http://vvn.neoredi.com/iptv/ch1836?code=8601338691674826&key=50297
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1837.png",CBS Drama
-http://vvn.neoredi.com/iptv/ch1837?code=8601338691674826&key=30691
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1935.png",Sky News UK
-http://vvn.neoredi.com/iptv/ch1935?code=8601338691674826&key=14446
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
-http://vvn.neoredi.com/iptv/ch1053?code=8601338691674826&key=62639
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
-http://vvn.neoredi.com/iptv/ch922?code=8601338691674826&key=22520
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
-http://vvn.neoredi.com/iptv/ch937?code=8601338691674826&key=57619
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
-http://vvn.neoredi.com/iptv/ch914?code=8601338691674826&key=36946
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
-http://vvn.neoredi.com/iptv/ch915?code=8601338691674826&key=26032
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
-http://vvn.neoredi.com/iptv/ch916?code=8601338691674826&key=19074
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
-http://vvn.neoredi.com/iptv/ch931?code=8601338691674826&key=47032
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-http://vvn.neoredi.com/iptv/ch1828?code=8601338691674826&key=45498
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
-http://vvn.neoredi.com/iptv/ch1829?code=8601338691674826&key=57494
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
-http://vvn.neoredi.com/iptv/ch1830?code=8601338691674826&key=30373
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",BT Sport Europe
-http://vvn.neoredi.com/iptv/ch1831?code=8601338691674826&key=34703
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1832.png",Setana Sport 1
-http://vvn.neoredi.com/iptv/ch1832?code=8601338691674826&key=59826
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
-http://vvn.neoredi.com/iptv/ch1833?code=8601338691674826&key=52699
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1834.png",Premiere Sport UK
-http://vvn.neoredi.com/iptv/ch1834?code=8601338691674826&key=50740
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport F1 UK
-http://vvn.neoredi.com/iptv/ch930?code=8601338691674826&key=27502
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/929.png",Eurosport 1 UK
-http://vvn.neoredi.com/iptv/ch929?code=8601338691674826&key=56546
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/918.png",Eurosport 2
-http://vvn.neoredi.com/iptv/ch918?code=8601338691674826&key=57382
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1858.png",Front Runner UK
-http://vvn.neoredi.com/iptv/ch1858?code=8601338691674826&key=51144
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1944.png",Front runner 2 UK
-http://vvn.neoredi.com/iptv/ch1944?code=8601338691674826&key=57589
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1852.png",Free Sport UK
-http://vvn.neoredi.com/iptv/ch1852?code=8601338691674826&key=35550
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/927.png",Manchester Ud. TV
-http://vvn.neoredi.com/iptv/ch927?code=8601338691674826&key=22222
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1700.png",Sony Movies UK
-http://vvn.neoredi.com/iptv/ch1700?code=8601338691674826&key=54410
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1809.png",SKY One UK
-http://vvn.neoredi.com/iptv/ch1809?code=8601338691674826&key=47141
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1810.png",SKY two UK
-http://vvn.neoredi.com/iptv/ch1810?code=8601338691674826&key=35977
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1055.png",Sky Select UK
-http://vvn.neoredi.com/iptv/ch1055?code=8601338691674826&key=50870
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1054.png",Sky Thriller UK
-http://vvn.neoredi.com/iptv/ch1054?code=8601338691674826&key=54967
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/924.png",Sky Family UK
-http://vvn.neoredi.com/iptv/ch924?code=8601338691674826&key=29804
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/919.png",Sky Comedy UK
-http://vvn.neoredi.com/iptv/ch919?code=8601338691674826&key=31766
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/917.png",Sky Action UK
-http://vvn.neoredi.com/iptv/ch917?code=8601338691674826&key=52659
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/909.png",Sky Select UK
-http://vvn.neoredi.com/iptv/ch909?code=8601338691674826&key=18171
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/908.png",Sky Horror UK
-http://vvn.neoredi.com/iptv/ch908?code=8601338691674826&key=21827
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/907.png",Sky Premiere UK
-http://vvn.neoredi.com/iptv/ch907?code=8601338691674826&key=35692
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/925.png",Sky Living UK
-http://vvn.neoredi.com/iptv/ch925?code=8601338691674826&key=61488
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/905.png",Fox UK
-http://vvn.neoredi.com/iptv/ch905?code=8601338691674826&key=48545
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/906.png",Sky Animal UK
-http://vvn.neoredi.com/iptv/ch906?code=8601338691674826&key=54915
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/923.png",Discovery Science UK
-http://vvn.neoredi.com/iptv/ch923?code=8601338691674826&key=45534
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/928.png",Discovery Showcase U
-http://vvn.neoredi.com/iptv/ch928?code=8601338691674826&key=26580
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/934.png",Discovery History UK
-http://vvn.neoredi.com/iptv/ch934?code=8601338691674826&key=26659
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1825.png",Discovery Ch. UK
-http://vvn.neoredi.com/iptv/ch1825?code=8601338691674826&key=20795
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1819.png",Food Network UK
-http://vvn.neoredi.com/iptv/ch1819?code=8601338691674826&key=62669
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/936.png",Disney Junior UK
-http://vvn.neoredi.com/iptv/ch936?code=8601338691674826&key=42674
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/958.png",Sky Disney UK
-http://vvn.neoredi.com/iptv/ch958?code=8601338691674826&key=48964
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1820.png",Disney XD UK
-http://vvn.neoredi.com/iptv/ch1820?code=8601338691674826&key=42323
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/912.png",Nick Jr. Too UK
-http://vvn.neoredi.com/iptv/ch912?code=8601338691674826&key=61154
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/913.png",Baby Tv UK
-http://vvn.neoredi.com/iptv/ch913?code=8601338691674826&key=58359
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
-http://vvn.neoredi.com/iptv/ch932?code=8601338691674826&key=41359
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1817.png",Pop Max UK
-http://vvn.neoredi.com/iptv/ch1817?code=8601338691674826&key=63957
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1936.png",Pop UK
-http://vvn.neoredi.com/iptv/ch1936?code=8601338691674826&key=31831
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1893.png",Tiny Pop UK
-http://vvn.neoredi.com/iptv/ch1893?code=8601338691674826&key=38922
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1945.png",Euronews UK
-http://vvn.neoredi.com/iptv/ch1945?code=8601338691674826&key=13179
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1826.png",CNBC UK
-http://vvn.neoredi.com/iptv/ch1826?code=8601338691674826&key=53409
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1943.png",Dave UK
-http://vvn.neoredi.com/iptv/ch1943?code=8601338691674826&key=51245
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1942.png",Really UK
-http://vvn.neoredi.com/iptv/ch1942?code=8601338691674826&key=13539
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1941.png",DRAMA UK
-http://vvn.neoredi.com/iptv/ch1941?code=8601338691674826&key=57175
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1939.png",Keep it country UK
-http://vvn.neoredi.com/iptv/ch1939?code=8601338691674826&key=16173
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1937.png",True Movies UK
-http://vvn.neoredi.com/iptv/ch1937?code=8601338691674826&key=29104
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1900.png",Bloomber UK
-http://vvn.neoredi.com/iptv/ch1900?code=8601338691674826&key=12307
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1899.png",Quest UK
-http://vvn.neoredi.com/iptv/ch1899?code=8601338691674826&key=21633
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1897.png",Community
-http://vvn.neoredi.com/iptv/ch1897?code=8601338691674826&key=19938
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1895.png",Yesterday UK
-http://vvn.neoredi.com/iptv/ch1895?code=8601338691674826&key=26967
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1859.png",My channel UK
-http://vvn.neoredi.com/iptv/ch1859?code=8601338691674826&key=21683
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1857.png",Home UK
-http://vvn.neoredi.com/iptv/ch1857?code=8601338691674826&key=38283
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1856.png",Pick TV UK
-http://vvn.neoredi.com/iptv/ch1856?code=8601338691674826&key=45778
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1855.png",PBS America UK
-http://vvn.neoredi.com/iptv/ch1855?code=8601338691674826&key=25953
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1854.png",VIVA UK
-http://vvn.neoredi.com/iptv/ch1854?code=8601338691674826&key=31964
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1853.png",Starz UK
-http://vvn.neoredi.com/iptv/ch1853?code=8601338691674826&key=38255
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1851.png",True entertainment UK
-http://vvn.neoredi.com/iptv/ch1851?code=8601338691674826&key=34739
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1850.png",Spike UK
-http://vvn.neoredi.com/iptv/ch1850?code=8601338691674826&key=28912
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1849.png",Blaze UK
-http://vvn.neoredi.com/iptv/ch1849?code=8601338691674826&key=48985
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1848.png",Flava UK
-http://vvn.neoredi.com/iptv/ch1848?code=8601338691674826&key=36832
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1818.png",Your Tv UK
-http://vvn.neoredi.com/iptv/ch1818?code=8601338691674826&key=30346
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1815.png",True Crime UK
-http://vvn.neoredi.com/iptv/ch1815?code=8601338691674826&key=46521
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1814.png",Showcase UK
-http://vvn.neoredi.com/iptv/ch1814?code=8601338691674826&key=55606
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1811.png",TV-ONE UK
-http://vvn.neoredi.com/iptv/ch1811?code=8601338691674826&key=10963
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/956.png",TLC UK
-http://vvn.neoredi.com/iptv/ch956?code=8601338691674826&key=62198
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1822.png",Horse and Country UK
-http://vvn.neoredi.com/iptv/ch1822?code=8601338691674826&key=36527
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1823.png",Travel Ch. UK
-http://vvn.neoredi.com/iptv/ch1823?code=8601338691674826&key=12437
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1824.png",Tru TV UK
-http://vvn.neoredi.com/iptv/ch1824?code=8601338691674826&key=60777
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1827.png",S4cdigidol
-http://vvn.neoredi.com/iptv/ch1827?code=8601338691674826&key=43422
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1839.png",Horror Ch. UK
-http://vvn.neoredi.com/iptv/ch1839?code=8601338691674826&key=52677
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1840.png",ABN UK
-http://vvn.neoredi.com/iptv/ch1840?code=8601338691674826&key=64641
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1841.png",Channels 24
-http://vvn.neoredi.com/iptv/ch1841?code=8601338691674826&key=61235
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1842.png",Irish TV
-http://vvn.neoredi.com/iptv/ch1842?code=8601338691674826&key=45071
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1843.png",Now Music
-http://vvn.neoredi.com/iptv/ch1843?code=8601338691674826&key=49435
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1845.png",Movies4Men
-http://vvn.neoredi.com/iptv/ch1845?code=8601338691674826&key=54868
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1846.png",Setana UK
-http://vvn.neoredi.com/iptv/ch1846?code=8601338691674826&key=59541
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1847.png",Channel S
-http://vvn.neoredi.com/iptv/ch1847?code=8601338691674826&key=19166
+#EXTINF:-1,US: Sprout
+http://listamy.com:8080/stream17/stream17/327987
+#EXTINF:-1,US: MSNBC
+http://listamy.com:8080/stream17/stream17/327988
+#EXTINF:-1,US: The Golf Channel
+http://listamy.com:8080/stream17/stream17/327989
+#EXTINF:-1,US: NBA tv
+http://listamy.com:8080/stream17/stream17/327990
+#EXTINF:-1,US: NESN Boston
+http://listamy.com:8080/stream17/stream17/327991
+#EXTINF:-1,US: NESN Plus
+http://listamy.com:8080/stream17/stream17/327992
+#EXTINF:-1,US: NESN
+http://listamy.com:8080/stream17/stream17/327993
+#EXTINF:-1,US: Cine Sony
+http://listamy.com:8080/stream17/stream17/327994
+#EXTINF:-1,US: CNN en Español
+http://listamy.com:8080/stream17/stream17/327995
+#EXTINF:-1,US: Syfy
+http://listamy.com:8080/stream17/stream17/327996
+#EXTINF:-1,US: Bein Sports En Español
+http://listamy.com:8080/stream17/stream17/327997
+#EXTINF:-1,US: TBS
+http://listamy.com:8080/stream17/stream17/327998
+#EXTINF:-1,US: NFL Network
+http://listamy.com:8080/stream17/stream17/327999
+#EXTINF:-1,US: SBG Stadium
+http://listamy.com:8080/stream17/stream17/328000
+#EXTINF:-1,US: SBG Stadium 1
+http://listamy.com:8080/stream17/stream17/328001
+#EXTINF:-1,US: Investigation Discovery Pacific
+http://listamy.com:8080/stream17/stream17/328002
+#EXTINF:-1,US: Oprah Winfrey Network
+http://listamy.com:8080/stream17/stream17/328003
+#EXTINF:-1,US: Animal Planet
+http://listamy.com:8080/stream17/stream17/328004
+#EXTINF:-1,US: Discovery Velocity
+http://listamy.com:8080/stream17/stream17/328005
+#EXTINF:-1,US: Destination America
+http://listamy.com:8080/stream17/stream17/328006
+#EXTINF:-1,US: TLC Pacific
+http://listamy.com:8080/stream17/stream17/328007
+#EXTINF:-1,US: TLC
+http://listamy.com:8080/stream17/stream17/328008
+#EXTINF:-1,US: Discovery Science
+http://listamy.com:8080/stream17/stream17/328009
+#EXTINF:-1,US: Discovery Familia
+http://listamy.com:8080/stream17/stream17/328010
+#EXTINF:-1,US: Discovery Pacific
+http://listamy.com:8080/stream17/stream17/328011
+#EXTINF:-1,US: Investigation Discovery
+http://listamy.com:8080/stream17/stream17/328012
+#EXTINF:-1,US: Discovery Español
+http://listamy.com:8080/stream17/stream17/328013
+#EXTINF:-1,US: Discovery Life
+http://listamy.com:8080/stream17/stream17/328014
+#EXTINF:-1,US: Discovery Channel
+http://listamy.com:8080/stream17/stream17/328015
+#EXTINF:-1,US: Discovery Family
+http://listamy.com:8080/stream17/stream17/328016
+#EXTINF:-1,US: Natgeo Pacific
+http://listamy.com:8080/stream17/stream17/328031
+#EXTINF:-1,US: Ginx Sports TV
+http://listamy.com:8080/stream17/stream17/328032
+#EXTINF:-1,US: FOX Deportes
+http://listamy.com:8080/stream17/stream17/328033
+#EXTINF:-1,US: FXX
+http://listamy.com:8080/stream17/stream17/328034
+#EXTINF:-1,US: FXM
+http://listamy.com:8080/stream17/stream17/328035
+#EXTINF:-1,US: FX
+http://listamy.com:8080/stream17/stream17/328036
+#EXTINF:-1,US: Fusion
+http://listamy.com:8080/stream17/stream17/328037
+#EXTINF:-1,US: Fox News Channel
+http://listamy.com:8080/stream17/stream17/328038
+#EXTINF:-1,US: Diy
+http://listamy.com:8080/stream17/stream17/328039
+#EXTINF:-1,US: ABC Milwaukee
+http://listamy.com:8080/stream17/stream17/328040
+#EXTINF:-1,US: ABC Kansas City
+http://listamy.com:8080/stream17/stream17/328041
+#EXTINF:-1,US: ABC San Antonio
+http://listamy.com:8080/stream17/stream17/328042
+#EXTINF:-1,US: ABC Salt lake city
+http://listamy.com:8080/stream17/stream17/328043
+#EXTINF:-1,US: ABC Saint Paul
+http://listamy.com:8080/stream17/stream17/328044
+#EXTINF:-1,US: ABC Baltimore
+http://listamy.com:8080/stream17/stream17/328045
+#EXTINF:-1,US: ABC Tampa Bay
+http://listamy.com:8080/stream17/stream17/328046
+#EXTINF:-1,US: ABC Phoenix
+http://listamy.com:8080/stream17/stream17/328047
+#EXTINF:-1,US: ABC Indianapolis
+http://listamy.com:8080/stream17/stream17/328048
+#EXTINF:-1,US: ABC Cleveland
+http://listamy.com:8080/stream17/stream17/328049
+#EXTINF:-1,US: ABC Sacramento
+http://listamy.com:8080/stream17/stream17/328050
+#EXTINF:-1,US: ABC Charlotte
+http://listamy.com:8080/stream17/stream17/328051
+#EXTINF:-1,US: ABC Miami
+http://listamy.com:8080/stream17/stream17/328052
+#EXTINF:-1,US: ABC Orlando
+http://listamy.com:8080/stream17/stream17/328053
+#EXTINF:-1,US: ABC Nashville
+http://listamy.com:8080/stream17/stream17/328054
+#EXTINF:-1,US: ABC San Diego
+http://listamy.com:8080/stream17/stream17/328055
+#EXTINF:-1,US: ABC Denver
+http://listamy.com:8080/stream17/stream17/328056
+#EXTINF:-1,US: ABC Dallas
+http://listamy.com:8080/stream17/stream17/328057
+#EXTINF:-1,US: ABC Pittsburgh
+http://listamy.com:8080/stream17/stream17/328058
+#EXTINF:-1,US: ABC Detroit
+http://listamy.com:8080/stream17/stream17/328059
+#EXTINF:-1,US: ABC Boston
+http://listamy.com:8080/stream17/stream17/328060
+#EXTINF:-1,US: ABC Atlanta
+http://listamy.com:8080/stream17/stream17/328061
+#EXTINF:-1,US: ABC Connecticut
+http://listamy.com:8080/stream17/stream17/328062
+#EXTINF:-1,US: ABC Fresno
+http://listamy.com:8080/stream17/stream17/328063
+#EXTINF:-1,US: ABC houston
+http://listamy.com:8080/stream17/stream17/328064
+#EXTINF:-1,US: ABC durham
+http://listamy.com:8080/stream17/stream17/328065
+#EXTINF:-1,US: ABC Chicago
+http://listamy.com:8080/stream17/stream17/328066
+#EXTINF:-1,US: ABC New York
+http://listamy.com:8080/stream17/stream17/328067
+#EXTINF:-1,US: ABC Philadelphia
+http://listamy.com:8080/stream17/stream17/328068
+#EXTINF:-1,US: ABC San Francisco
+http://listamy.com:8080/stream17/stream17/328069
+#EXTINF:-1,US: ABC Los Angeles
+http://listamy.com:8080/stream17/stream17/328070
+#EXTINF:-1,US: NBC Washington
+http://listamy.com:8080/stream17/stream17/328071
+#EXTINF:-1,US: NBC St Louis
+http://listamy.com:8080/stream17/stream17/328072
+#EXTINF:-1,US: NBC Seattle
+http://listamy.com:8080/stream17/stream17/328073
+#EXTINF:-1,US: NBC San Diego
+http://listamy.com:8080/stream17/stream17/328074
+#EXTINF:-1,US: NBC Salt Lake City
+http://listamy.com:8080/stream17/stream17/328075
+#EXTINF:-1,US: NBC Sacramento
+http://listamy.com:8080/stream17/stream17/328076
+#EXTINF:-1,US: NBC Raleigh
+http://listamy.com:8080/stream17/stream17/328077
+#EXTINF:-1,US: NBC Portland
+http://listamy.com:8080/stream17/stream17/328078
+#EXTINF:-1,US: NBC Pittsburgh
+http://listamy.com:8080/stream17/stream17/328079
+#EXTINF:-1,US: NBC Phoenix
+http://listamy.com:8080/stream17/stream17/328080
+#EXTINF:-1,US: NBC Philadelphia
+http://listamy.com:8080/stream17/stream17/328081
+#EXTINF:-1,US: NBC New York
+http://listamy.com:8080/stream17/stream17/328082
+#EXTINF:-1,US: NBC New Orleans
+http://listamy.com:8080/stream17/stream17/328083
+#EXTINF:-1,US: NBC Nashville
+http://listamy.com:8080/stream17/stream17/328084
+#EXTINF:-1,US: NBC Minneapolis
+http://listamy.com:8080/stream17/stream17/328085
+#EXTINF:-1,US: NBC Milwaukee
+http://listamy.com:8080/stream17/stream17/328086
+#EXTINF:-1,US: NBC Miami
+http://listamy.com:8080/stream17/stream17/328087
+#EXTINF:-1,US: NBC Los Angeles
+http://listamy.com:8080/stream17/stream17/328088
+#EXTINF:-1,US: NBC Kansas City
+http://listamy.com:8080/stream17/stream17/328089
+#EXTINF:-1,US: NBC Jacksonville
+http://listamy.com:8080/stream17/stream17/328090
+#EXTINF:-1,US: NBC Indianapolis
+http://listamy.com:8080/stream17/stream17/328091
+#EXTINF:-1,US: NBC Houston
+http://listamy.com:8080/stream17/stream17/328092
+#EXTINF:-1,US: NBC Hartford
+http://listamy.com:8080/stream17/stream17/328093
+#EXTINF:-1,US: NBC Green Bay
+http://listamy.com:8080/stream17/stream17/328094
+#EXTINF:-1,US: NBC Detroit
+http://listamy.com:8080/stream17/stream17/328095
+#EXTINF:-1,US: NBC Denver
+http://listamy.com:8080/stream17/stream17/328096
+#EXTINF:-1,US: NBC Dallas
+http://listamy.com:8080/stream17/stream17/328097
+#EXTINF:-1,US: NBC Cleveland
+http://listamy.com:8080/stream17/stream17/328098
+#EXTINF:-1,US: NBC Cincinnati
+http://listamy.com:8080/stream17/stream17/328099
+#EXTINF:-1,US: NBC Chicago
+http://listamy.com:8080/stream17/stream17/328100
+#EXTINF:-1,US: NBC Charlotte
+http://listamy.com:8080/stream17/stream17/328101
+#EXTINF:-1,US: NBC Buffalo
+http://listamy.com:8080/stream17/stream17/328102
+#EXTINF:-1,US: NBC Boston
+http://listamy.com:8080/stream17/stream17/328103
+#EXTINF:-1,US: NBC Baltimore
+http://listamy.com:8080/stream17/stream17/328104
+#EXTINF:-1,US: NBC Atlanta
+http://listamy.com:8080/stream17/stream17/328105
+#EXTINF:-1,US: FOX Washington
+http://listamy.com:8080/stream17/stream17/328106
+#EXTINF:-1,US: FOX Tampa
+http://listamy.com:8080/stream17/stream17/328107
+#EXTINF:-1,US: FOX St Louis
+http://listamy.com:8080/stream17/stream17/328108
+#EXTINF:-1,US: FOX Seattle
+http://listamy.com:8080/stream17/stream17/328109
+#EXTINF:-1,US: FOX San Francisco
+http://listamy.com:8080/stream17/stream17/328110
+#EXTINF:-1,US: FOX San Diego
+http://listamy.com:8080/stream17/stream17/328111
+#EXTINF:-1,US: FOX Salt Lake City
+http://listamy.com:8080/stream17/stream17/328112
+#EXTINF:-1,US: FOX Sacramento
+http://listamy.com:8080/stream17/stream17/328113
+#EXTINF:-1,US: FOX Phoenix
+http://listamy.com:8080/stream17/stream17/328114
+#EXTINF:-1,US: FOX Philadelphia
+http://listamy.com:8080/stream17/stream17/328115
+#EXTINF:-1,US: FOX Orlando
+http://listamy.com:8080/stream17/stream17/328116
+#EXTINF:-1,US: FOX Ocala
+http://listamy.com:8080/stream17/stream17/328117
+#EXTINF:-1,US: FOX New York
+http://listamy.com:8080/stream17/stream17/328118
+#EXTINF:-1,US: FOX New Orleans
+http://listamy.com:8080/stream17/stream17/328119
+#EXTINF:-1,US: FOX Minneapolis
+http://listamy.com:8080/stream17/stream17/328120
+#EXTINF:-1,US: FOX Milwaukee
+http://listamy.com:8080/stream17/stream17/328121
+#EXTINF:-1,US: FOX Miami
+http://listamy.com:8080/stream17/stream17/328122
+#EXTINF:-1,US: FOX Los Angeles
+http://listamy.com:8080/stream17/stream17/328123
+#EXTINF:-1,US: FOX Kansas City
+http://listamy.com:8080/stream17/stream17/328124
+#EXTINF:-1,US: FOX Jacksonville
+http://listamy.com:8080/stream17/stream17/328125
+#EXTINF:-1,US: FOX Indianapolis
+http://listamy.com:8080/stream17/stream17/328126
+#EXTINF:-1,US: FOX Houston
+http://listamy.com:8080/stream17/stream17/328127
+#EXTINF:-1,US: FOX Hartford
+http://listamy.com:8080/stream17/stream17/328128
+#EXTINF:-1,US: FOX Detroit
+http://listamy.com:8080/stream17/stream17/328129
+#EXTINF:-1,US: FOX Denver
+http://listamy.com:8080/stream17/stream17/328130
+#EXTINF:-1,US: FOX Columbus
+http://listamy.com:8080/stream17/stream17/328131
+#EXTINF:-1,US: FOX Dallas
+http://listamy.com:8080/stream17/stream17/328132
+#EXTINF:-1,US: FOX Cleveland
+http://listamy.com:8080/stream17/stream17/328133
+#EXTINF:-1,US: FOX Chicago
+http://listamy.com:8080/stream17/stream17/328134
+#EXTINF:-1,US: FOX Boston
+http://listamy.com:8080/stream17/stream17/328135
+#EXTINF:-1,US: FOX Belmont
+http://listamy.com:8080/stream17/stream17/328136
+#EXTINF:-1,US: FOX Austin
+http://listamy.com:8080/stream17/stream17/328137
+#EXTINF:-1,US: FOX Atlanta
+http://listamy.com:8080/stream17/stream17/328138
+#EXTINF:-1,US: KTVU Plus
+http://listamy.com:8080/stream17/stream17/328139
+#EXTINF:-1,US: CBS Washington
+http://listamy.com:8080/stream17/stream17/328140
+#EXTINF:-1,US: CBS Tampa
+http://listamy.com:8080/stream17/stream17/328141
+#EXTINF:-1,US: CBS St Louis
+http://listamy.com:8080/stream17/stream17/328142
+#EXTINF:-1,US: CBS Seattle
+http://listamy.com:8080/stream17/stream17/328143
+#EXTINF:-1,US: CBS San Francisco
+http://listamy.com:8080/stream17/stream17/328144
+#EXTINF:-1,US: CBS San Diego
+http://listamy.com:8080/stream17/stream17/328145
+#EXTINF:-1,US: CBS San Antonio
+http://listamy.com:8080/stream17/stream17/328146
+#EXTINF:-1,US: CBS Sacramento
+http://listamy.com:8080/stream17/stream17/328147
+#EXTINF:-1,US: CBS Pittsburgh
+http://listamy.com:8080/stream17/stream17/328148
+#EXTINF:-1,US: CBS Phoenix
+http://listamy.com:8080/stream17/stream17/328149
+#EXTINF:-1,US: CBS Philadelphia
+http://listamy.com:8080/stream17/stream17/328150
+#EXTINF:-1,US: CBS Orlando
+http://listamy.com:8080/stream17/stream17/328151
+#EXTINF:-1,US: CBS New York
+http://listamy.com:8080/stream17/stream17/328152
+#EXTINF:-1,US: CBS New Orleans
+http://listamy.com:8080/stream17/stream17/328153
+#EXTINF:-1,US: CBS Nashville
+http://listamy.com:8080/stream17/stream17/328154
+#EXTINF:-1,US: CBS Milwaukee
+http://listamy.com:8080/stream17/stream17/328155
+#EXTINF:-1,US: CBS Minneapolis
+http://listamy.com:8080/stream17/stream17/328156
+#EXTINF:-1,US: CBS Miami
+http://listamy.com:8080/stream17/stream17/328157
+#EXTINF:-1,US: CBS Los Angeles KCAL
+http://listamy.com:8080/stream17/stream17/328158
+#EXTINF:-1,US: CBS Kansas City
+http://listamy.com:8080/stream17/stream17/328159
+#EXTINF:-1,US: CBS Jacksonville
+http://listamy.com:8080/stream17/stream17/328160
+#EXTINF:-1,US: CBS Houston
+http://listamy.com:8080/stream17/stream17/328161
+#EXTINF:-1,US: CBS Hartford
+http://listamy.com:8080/stream17/stream17/328162
+#EXTINF:-1,US: CBS Greensboro
+http://listamy.com:8080/stream17/stream17/328163
+#EXTINF:-1,US: CBS Detroit
+http://listamy.com:8080/stream17/stream17/328164
+#EXTINF:-1,US: CBS Denver
+http://listamy.com:8080/stream17/stream17/328165
+#EXTINF:-1,US: CBS Dallas
+http://listamy.com:8080/stream17/stream17/328166
+#EXTINF:-1,US: CBS Columbus
+http://listamy.com:8080/stream17/stream17/328167
+#EXTINF:-1,US: CBS Cleveland
+http://listamy.com:8080/stream17/stream17/328168
+#EXTINF:-1,US: CBS Chicago
+http://listamy.com:8080/stream17/stream17/328169
+#EXTINF:-1,US: CBS Charlotte
+http://listamy.com:8080/stream17/stream17/328170
+#EXTINF:-1,US: CBS Boston
+http://listamy.com:8080/stream17/stream17/328171
+#EXTINF:-1,US: CBS Baltimore
+http://listamy.com:8080/stream17/stream17/328172
+#EXTINF:-1,US: HBO
+http://listamy.com:8080/stream17/stream17/328173
+#EXTINF:-1,US: Cartoon Network Pacific
+http://listamy.com:8080/stream17/stream17/328174
+#EXTINF:-1,US: Disney XD Pacific
+http://listamy.com:8080/stream17/stream17/328176
+#EXTINF:-1,US: Fox Bussines Network
+http://listamy.com:8080/stream17/stream17/328177
+#EXTINF:-1,US: Food Network
+http://listamy.com:8080/stream17/stream17/328178
+#EXTINF:-1,US: ESPN U
+http://listamy.com:8080/stream17/stream17/328179
+#EXTINF:-1,US: Eleven Sports Network
+http://listamy.com:8080/stream17/stream17/328180
+#EXTINF:-1,US: E! Entertainment
+http://listamy.com:8080/stream17/stream17/328181
+#EXTINF:-1,US: Epix Hits
+http://listamy.com:8080/stream17/stream17/328182
+#EXTINF:-1,US: ESPN 2
+http://listamy.com:8080/stream17/stream17/328183
+#EXTINF:-1,US: ESPN 1
+http://listamy.com:8080/stream17/stream17/328184
+#EXTINF:-1,US: Fox College Sports Pacific
+http://listamy.com:8080/stream17/stream17/328185
+#EXTINF:-1,US: Fox Collage Sports Atlantic
+http://listamy.com:8080/stream17/stream17/328186
+#EXTINF:-1,US: Disney Junior Pacific
+http://listamy.com:8080/stream17/stream17/328187
+#EXTINF:-1,US: Disney Channel
+http://listamy.com:8080/stream17/stream17/328188
+#EXTINF:-1,US: Cozi TV
+http://listamy.com:8080/stream17/stream17/328189
+#EXTINF:-1,US: Cooking Channel
+http://listamy.com:8080/stream17/stream17/328190
+#EXTINF:-1,US: CNN
+http://listamy.com:8080/stream17/stream17/328191
+#EXTINF:-1,US: CNBC World
+http://listamy.com:8080/stream17/stream17/328192
+#EXTINF:-1,US: CNBC
+http://listamy.com:8080/stream17/stream17/328193
+#EXTINF:-1,US: Cinemax West
+http://listamy.com:8080/stream17/stream17/328194
+#EXTINF:-1,US: Cinemax East
+http://listamy.com:8080/stream17/stream17/328195
+#EXTINF:-1,US: CBS Sports Network
+http://listamy.com:8080/stream17/stream17/328196
+#EXTINF:-1,US: BTN
+http://listamy.com:8080/stream17/stream17/328197
+#EXTINF:-1,US: Bravo
+http://listamy.com:8080/stream17/stream17/328198
+#EXTINF:-1,US: Boomerang
+http://listamy.com:8080/stream17/stream17/328199
+#EXTINF:-1,US: BBC World News
+http://listamy.com:8080/stream17/stream17/328200
+#EXTINF:-1,US: BBC America
+http://listamy.com:8080/stream17/stream17/328201
+#EXTINF:-1,US: Freeform
+http://listamy.com:8080/stream17/stream17/328202
+#EXTINF:-1,US: Sony Movie Channel
+http://listamy.com:8080/stream17/stream17/328203
+#EXTINF:-1,US: Sundance
+http://listamy.com:8080/stream17/stream17/328204
+#EXTINF:-1,US: Syfy Pacific
+http://listamy.com:8080/stream17/stream17/328205
+#EXTINF:-1,US: TNT Pacific
+http://listamy.com:8080/stream17/stream17/328206
+#EXTINF:-1,US: TBS Pacific
+http://listamy.com:8080/stream17/stream17/328207
+#EXTINF:-1,US: Travel
+http://listamy.com:8080/stream17/stream17/328208
+#EXTINF:-1,US: Travel Pacific
+http://listamy.com:8080/stream17/stream17/328209
+#EXTINF:-1,US: TCM
+http://listamy.com:8080/stream17/stream17/328210
+#EXTINF:-1,US: Network Pacific
+http://listamy.com:8080/stream17/stream17/328211
+#EXTINF:-1,US: We TV
+http://listamy.com:8080/stream17/stream17/328212
+#EXTINF:-1,US: Trutv
+http://listamy.com:8080/stream17/stream17/328213
+#EXTINF:-1,US: Fox Collage Sports Central
+http://listamy.com:8080/stream17/stream17/328214
+#EXTINF:-1,US: Espn News
+http://listamy.com:8080/stream17/stream17/328215
+#EXTINF:-1,US: American Heroes
+http://listamy.com:8080/stream17/stream17/328216
+#EXTINF:-1,US: AMC
+http://listamy.com:8080/stream17/stream17/328217
+#EXTINF:-1,US: CBS Atlanta
+http://listamy.com:8080/stream17/stream17/328218
+#EXTINF:-1,US: Espn Deportes
+http://listamy.com:8080/stream17/stream17/328219
+#EXTINF:-1,US: HBO Pacific
+http://listamy.com:8080/stream17/stream17/328220
+#EXTINF:-1,US: Fox Sports 2
+http://listamy.com:8080/stream17/stream17/328221
+#EXTINF:-1,US: Fox Sports 1
+http://listamy.com:8080/stream17/stream17/328222
+#EXTINF:-1,US: MLB Strike One
+http://listamy.com:8080/stream17/stream17/328223
+#EXTINF:-1,US: MLB Network
+http://listamy.com:8080/stream17/stream17/328224
+#EXTINF:-1,US: Universal Kids
+http://listamy.com:8080/stream17/stream17/328225
+#EXTINF:-1,US: Baby TV
+http://listamy.com:8080/stream17/stream17/328226
+#EXTINF:-1,US: Hallmark Movies & Mysteries
+http://listamy.com:8080/stream17/stream17/328227
+#EXTINF:-1,US: Hallmark Channel
+http://listamy.com:8080/stream17/stream17/328228
+#EXTINF:-1,US: Showtime East
+http://listamy.com:8080/stream17/stream17/328229
+#EXTINF:-1,US: Showtime Pacific
+http://listamy.com:8080/stream17/stream17/328230
+#EXTINF:-1,US: HLN
+http://listamy.com:8080/stream17/stream17/328231
+#EXTINF:-1,US: SBG Stadium 2
+http://listamy.com:8080/stream17/stream17/328232
+#EXTINF:-1,US: NBC Sports Bay Area
+http://listamy.com:8080/stream17/stream17/328239
+#EXTINF:-1,US: Disney XD
+http://listamy.com:8080/stream17/stream17/328240
+#EXTINF:-1,US: Usa Network Pacific
+http://listamy.com:8080/stream17/stream17/328241
+#EXTINF:-1,US: Fox College Sports Central
+http://listamy.com:8080/stream17/stream17/328242
+#EXTINF:-1,US: FS 1
+http://listamy.com:8080/stream17/stream17/328243
+#EXTINF:-1,US: Fox Sports Wisconsin
+http://listamy.com:8080/stream17/stream17/328245
+#EXTINF:-1,US: Fox Sports West
+http://listamy.com:8080/stream17/stream17/328246
+#EXTINF:-1,US: Fox Sports SUN
+http://listamy.com:8080/stream17/stream17/328247
+#EXTINF:-1,US: Fox Sports South
+http://listamy.com:8080/stream17/stream17/328248
+#EXTINF:-1,US: Fox Sports San Diego
+http://listamy.com:8080/stream17/stream17/328249
+#EXTINF:-1,US: FOX YES
+http://listamy.com:8080/stream17/stream17/328250
+#EXTINF:-1,US: Fox Sportstime OH
+http://listamy.com:8080/stream17/stream17/328251
+#EXTINF:-1,US: Fox Sports Ohio
+http://listamy.com:8080/stream17/stream17/328252
+#EXTINF:-1,US: Fox Sports North
+http://listamy.com:8080/stream17/stream17/328253
+#EXTINF:-1,US: Fox Sports Midwest
+http://listamy.com:8080/stream17/stream17/328254
+#EXTINF:-1,US: Fox Sports Florida
+http://listamy.com:8080/stream17/stream17/328255
+#EXTINF:-1,US: Fox Sports Detroit
+http://listamy.com:8080/stream17/stream17/328256
+#EXTINF:-1,US: Fox Sports Arizona
+http://listamy.com:8080/stream17/stream17/328257
+#EXTINF:-1,US: CBS-POP
+http://listamy.com:8080/stream17/stream17/328258
+#EXTINF:-1,US: FOX SOCCER PLUS
+http://listamy.com:8080/stream17/stream17/328259
+#EXTINF:-1,US: ABC 4 (Seattle)
+http://listamy.com:8080/stream17/stream17/328261
+#EXTINF:-1,US: ABC 2 (Portland)
+http://listamy.com:8080/stream17/stream17/328262
+#EXTINF:-1,US: Euronews.
+http://listamy.com:8080/stream17/stream17/328263
+#EXTINF:-1,US: METV
+http://listamy.com:8080/stream17/stream17/328264
+#EXTINF:-1,US: Acc Network.
+http://listamy.com:8080/stream17/stream17/328265
+#EXTINF:-1,US: Discovery
+http://listamy.com:8080/stream17/stream17/328266
+#EXTINF:-1,US: Baby-TV
+http://listamy.com:8080/stream17/stream17/328267
+#EXTINF:-1,US: Food Network HD.
+http://listamy.com:8080/stream17/stream17/328268
+#EXTINF:-1,US: beIN Sports
+http://listamy.com:8080/stream17/stream17/328269
+#EXTINF:-1,US: ACC Network
+http://listamy.com:8080/stream17/stream17/328271
+#EXTINF:-1,US: TVG
+http://listamy.com:8080/stream17/stream17/328272
+#EXTINF:-1,US: America Teve
+http://listamy.com:8080/stream17/stream17/328273
+#EXTINF:-1,US: ACC NETWORK 
+http://listamy.com:8080/stream17/stream17/328274
+#EXTINF:-1,US: MARQUEE SPORTS NETWORK
+http://listamy.com:8080/stream17/stream17/328275
+#EXTINF:-1,US: Spectrum Sportsnet LA Dodgers
+http://listamy.com:8080/stream17/stream17/328276
+#EXTINF:-1,US: H2
+http://listamy.com:8080/stream17/stream17/328277
+#EXTINF:-1,US: Oxygen
+http://listamy.com:8080/stream17/stream17/328278
+#EXTINF:-1,US: Bet
+http://listamy.com:8080/stream17/stream17/328279
+#EXTINF:-1,US: FOX San Jose
+http://listamy.com:8080/stream17/stream17/328280
+#EXTINF:-1,US: MTV 2
+http://listamy.com:8080/stream17/stream17/328281
+#EXTINF:-1,US: CBS Los Angeles KCBS
+http://listamy.com:8080/stream17/stream17/328282
+#EXTINF:-1,US: Nicktoons
+http://listamy.com:8080/stream17/stream17/328283
+#EXTINF:-1,US: CMT
+http://listamy.com:8080/stream17/stream17/328284
+#EXTINF:-1,US: Univision FHD test
+http://listamy.com:8080/stream17/stream17/328285
+#EXTINF:-1,US: Yes Network
+http://listamy.com:8080/stream17/stream17/328286
+#EXTINF:-1,US: WWE PPV
+http://listamy.com:8080/stream17/stream17/328287
+#EXTINF:-1,US: WWE 24/7 FHD
+http://listamy.com:8080/stream17/stream17/328288
+#EXTINF:-1,US: WPIX 11 NY
+http://listamy.com:8080/stream17/stream17/328289
+#EXTINF:-1,US: Wild HD
+http://listamy.com:8080/stream17/stream17/328290
+#EXTINF:-1,US: WGN News Chicago
+http://listamy.com:8080/stream17/stream17/328291
+#EXTINF:-1,US: WGN America HD
+http://listamy.com:8080/stream17/stream17/328292
+#EXTINF:-1,US: WEATHER CHANNEL HD
+http://listamy.com:8080/stream17/stream17/328293
+#EXTINF:-1,US: WE TV HD
+http://listamy.com:8080/stream17/stream17/328294
+#EXTINF:-1,US: WCNC Breaking News
+http://listamy.com:8080/stream17/stream17/328295
+#EXTINF:-1,US: WAPA America HD
+http://listamy.com:8080/stream17/stream17/328296
+#EXTINF:-1,US: SHOWTIME FAMILY ZONE FHD
+http://listamy.com:8080/stream17/stream17/328297
+#EXTINF:-1,US: RT NEWS
+http://listamy.com:8080/stream17/stream17/328298
+#EXTINF:-1,US: REVOLT HD
+http://listamy.com:8080/stream17/stream17/328299
+#EXTINF:-1,US: POP TV
+http://listamy.com:8080/stream17/stream17/328300
+#EXTINF:-1,US: PBS KIDS EAST
+http://listamy.com:8080/stream17/stream17/328301
+#EXTINF:-1,US: PBS HD
+http://listamy.com:8080/stream17/stream17/328302
+#EXTINF:-1,US: PAC-12 Networks HD
+http://listamy.com:8080/stream17/stream17/328303
+#EXTINF:-1,US: OWN NETWORK FHD
+http://listamy.com:8080/stream17/stream17/328304
+#EXTINF:-1,US: NICK HD (kids)
+http://listamy.com:8080/stream17/stream17/328305
+#EXTINF:-1,US: NBCSN Philly HD
+http://listamy.com:8080/stream17/stream17/328306
+#EXTINF:-1,US: NBCSN North West HD
+http://listamy.com:8080/stream17/stream17/328307
+#EXTINF:-1,US: NBCSN Chicago HD
+http://listamy.com:8080/stream17/stream17/328308
+#EXTINF:-1,US: NBCSN California HD
+http://listamy.com:8080/stream17/stream17/328309
+#EXTINF:-1,US: NBCSN Boston HD
+http://listamy.com:8080/stream17/stream17/328310
+#EXTINF:-1,US: NBCSN Bay Area HD
+http://listamy.com:8080/stream17/stream17/328311
+#EXTINF:-1,US: NBC 4 (NY)
+http://listamy.com:8080/stream17/stream17/328312
+#EXTINF:-1,US: NBC (EAST)
+http://listamy.com:8080/stream17/stream17/328313
+#EXTINF:-1,US: MSG  HD
+http://listamy.com:8080/stream17/stream17/328314
+#EXTINF:-1,US: MLB Live HD
+http://listamy.com:8080/stream17/stream17/328315
+#EXTINF:-1,US: lifetime movies FHD
+http://listamy.com:8080/stream17/stream17/328316
+#EXTINF:-1,US: HSN HD
+http://listamy.com:8080/stream17/stream17/328317
+#EXTINF:-1,US: HISTORY 2 SD
+http://listamy.com:8080/stream17/stream17/328318
+#EXTINF:-1,US: Hallmark Drama
+http://listamy.com:8080/stream17/stream17/328319
+#EXTINF:-1,US: GAMESHOW NETWORK HD
+http://listamy.com:8080/stream17/stream17/328320
+#EXTINF:-1,US: GALAVISION
+http://listamy.com:8080/stream17/stream17/328321
+#EXTINF:-1,US: FYI NETWORK
+http://listamy.com:8080/stream17/stream17/328322
+#EXTINF:-1,US: FXX WEST
+http://listamy.com:8080/stream17/stream17/328323
+#EXTINF:-1,US: FXX HD
+http://listamy.com:8080/stream17/stream17/328324
+#EXTINF:-1,US: FX (West)
+http://listamy.com:8080/stream17/stream17/328325
+#EXTINF:-1,US: FUSE HD
+http://listamy.com:8080/stream17/stream17/328326
+#EXTINF:-1,US: FOX West
+http://listamy.com:8080/stream17/stream17/328327
+#EXTINF:-1,US: Fox Sports Tennessee HD
+http://listamy.com:8080/stream17/stream17/328328
+#EXTINF:-1,US: Fox Sports (West) HD
+http://listamy.com:8080/stream17/stream17/328329
+#EXTINF:-1,US: Fox Sports (Sun) HD
+http://listamy.com:8080/stream17/stream17/328330
+#EXTINF:-1,US: Fox Sports (South West) HD
+http://listamy.com:8080/stream17/stream17/328331
+#EXTINF:-1,US: Fox Sports (South East) HD
+http://listamy.com:8080/stream17/stream17/328332
+#EXTINF:-1,US: Fox Sports (Ohio) HD
+http://listamy.com:8080/stream17/stream17/328333
+#EXTINF:-1,US: Fox Sports (College Central) HD
+http://listamy.com:8080/stream17/stream17/328334
+#EXTINF:-1,US: Fox Sports (College Atlantic) HD
+http://listamy.com:8080/stream17/stream17/328335
+#EXTINF:-1,US: Fox Sports (Arizona) HD
+http://listamy.com:8080/stream17/stream17/328336
+#EXTINF:-1,US: Fox College Atlantic HD
+http://listamy.com:8080/stream17/stream17/328337
+#EXTINF:-1,US: Fox Business HD
+http://listamy.com:8080/stream17/stream17/328338
+#EXTINF:-1,US: FOX 5 HD
+http://listamy.com:8080/stream17/stream17/328339
+#EXTINF:-1,US: Fight Network HD
+http://listamy.com:8080/stream17/stream17/328340
+#EXTINF:-1,US: EPIX FHD
+http://listamy.com:8080/stream17/stream17/328341
+#EXTINF:-1,US: DISNEY JR HD
+http://listamy.com:8080/stream17/stream17/328342
+#EXTINF:-1,US: DISCOVERY FAMILY HD
+http://listamy.com:8080/stream17/stream17/328343
+#EXTINF:-1,US: Crime & Investigation FHD
+http://listamy.com:8080/stream17/stream17/328344
+#EXTINF:-1,US: CNN INTERNATIONAL HD
+http://listamy.com:8080/stream17/stream17/328345
+#EXTINF:-1,US: Cinemax ThrillerMax FHD
+http://listamy.com:8080/stream17/stream17/328346
+#EXTINF:-1,US: Cinema 41 Waiting for the Barbarians
+http://listamy.com:8080/stream17/stream17/328347
+#EXTINF:-1,US: Cinema 40 The Tax Collector
+http://listamy.com:8080/stream17/stream17/328348
+#EXTINF:-1,US: Cinema 39 Shifter
+http://listamy.com:8080/stream17/stream17/328349
+#EXTINF:-1,US: Cinema 38 Nothing But the Blood
+http://listamy.com:8080/stream17/stream17/328350
+#EXTINF:-1,US: Cinema 36 Ravage
+http://listamy.com:8080/stream17/stream17/328351
+#EXTINF:-1,US: Cinema 35 Senior Love Triangle
+http://listamy.com:8080/stream17/stream17/328352
+#EXTINF:-1,US: Cinema 34 An American Pickle
+http://listamy.com:8080/stream17/stream17/328353
+#EXTINF:-1,US: Cinema 33 Beast No More
+http://listamy.com:8080/stream17/stream17/328354
+#EXTINF:-1,US: Cinema 32 Irresistible
+http://listamy.com:8080/stream17/stream17/328355
+#EXTINF:-1,US: Cinema 31 Perfect 10
+http://listamy.com:8080/stream17/stream17/328356
+#EXTINF:-1,US: Cinema 30 She Dies Tomorrow
+http://listamy.com:8080/stream17/stream17/328357
+#EXTINF:-1,US: Cinema 29 Chemical Hearts
+http://listamy.com:8080/stream17/stream17/328358
+#EXTINF:-1,US: Cinema 28 Stage Mother
+http://listamy.com:8080/stream17/stream17/328359
+#EXTINF:-1,US: Cinema 27 You\'re Not Alone
+http://listamy.com:8080/stream17/stream17/328360
+#EXTINF:-1,US: Cinema 26 Frankie
+http://listamy.com:8080/stream17/stream17/328361
+#EXTINF:-1,US: Cinema 25 You Should Have Left
+http://listamy.com:8080/stream17/stream17/328362
+#EXTINF:-1,US: Cinema 24 The Vast Of Night
+http://listamy.com:8080/stream17/stream17/328363
+#EXTINF:-1,US: Cinema 23 The Trip To Greece
+http://listamy.com:8080/stream17/stream17/328364
+#EXTINF:-1,US: Cinema 22 The Postcard Killings
+http://listamy.com:8080/stream17/stream17/328365
+#EXTINF:-1,US: Cinema 21 The Outpost
+http://listamy.com:8080/stream17/stream17/328366
+#EXTINF:-1,US: Cinema 20 The Great Silence
+http://listamy.com:8080/stream17/stream17/328367
+#EXTINF:-1,US: Cinema 19 Superman: Man of Tomorrow
+http://listamy.com:8080/stream17/stream17/328368
+#EXTINF:-1,US: Cinema 18 Magic Camp
+http://listamy.com:8080/stream17/stream17/328369
+#EXTINF:-1,US: Cinema 17 Love Guaranteed
+http://listamy.com:8080/stream17/stream17/328370
+#EXTINF:-1,US: Cinema 16 G-Loc
+http://listamy.com:8080/stream17/stream17/328371
+#EXTINF:-1,US: Cinema 15 Chemical Hearts
+http://listamy.com:8080/stream17/stream17/328372
+#EXTINF:-1,US: Cinema 14 Bill & Ted Face the Music
+http://listamy.com:8080/stream17/stream17/328373
+#EXTINF:-1,US: Cinema 13 Baba Yaga
+http://listamy.com:8080/stream17/stream17/328374
+#EXTINF:-1,US: Cinema 12 All together now
+http://listamy.com:8080/stream17/stream17/328375
+#EXTINF:-1,US: Cinema 11 The War with Grandpa
+http://listamy.com:8080/stream17/stream17/328376
+#EXTINF:-1,US: Cinema 10 Valley of the Gods
+http://listamy.com:8080/stream17/stream17/328377
+#EXTINF:-1,US: Cinema 09 Unbelievable
+http://listamy.com:8080/stream17/stream17/328378
+#EXTINF:-1,US: Cinema 08 The One and Only Ivan
+http://listamy.com:8080/stream17/stream17/328379
+#EXTINF:-1,US: Cinema 07 The King of Staten Island
+http://listamy.com:8080/stream17/stream17/328380
+#EXTINF:-1,US: Cinema 06 The Wretched
+http://listamy.com:8080/stream17/stream17/328381
+#EXTINF:-1,US: Cinema 05 The Owners
+http://listamy.com:8080/stream17/stream17/328382
+#EXTINF:-1,US: Cinema 04 The Bay of Silence
+http://listamy.com:8080/stream17/stream17/328383
+#EXTINF:-1,US: Cinema 03 Heartbeat
+http://listamy.com:8080/stream17/stream17/328384
+#EXTINF:-1,US: Cinema 02 Rogue
+http://listamy.com:8080/stream17/stream17/328385
+#EXTINF:-1,US: Cinema 01 Mulán
+http://listamy.com:8080/stream17/stream17/328386
+#EXTINF:-1,US: CBS News
+http://listamy.com:8080/stream17/stream17/328387
+#EXTINF:-1,US: CBS New York FHD
+http://listamy.com:8080/stream17/stream17/328388
+#EXTINF:-1,US: C-Span HD
+http://listamy.com:8080/stream17/stream17/328389
+#EXTINF:-1,US: Buzzer TV
+http://listamy.com:8080/stream17/stream17/328390
+#EXTINF:-1,US: Bounce TV
+http://listamy.com:8080/stream17/stream17/328391
+#EXTINF:-1,US: ANTENNA TV
+http://listamy.com:8080/stream17/stream17/328392
+#EXTINF:-1,US: Tennis Channel HD
+http://listamy.com:8080/stream17/stream17/328393
+#EXTINF:-1,US: Sportsnet World
+http://listamy.com:8080/stream17/stream17/328394
+#EXTINF:-1,US: Sportsnet Ontario
+http://listamy.com:8080/stream17/stream17/328395
+#EXTINF:-1,US: Sportsnet One
+http://listamy.com:8080/stream17/stream17/328396
+#EXTINF:-1,US: TLC HD
+http://listamy.com:8080/stream17/stream17/328397
+#EXTINF:-1,US: T.N.T FHD
+http://listamy.com:8080/stream17/stream17/328398
+#EXTINF:-1,US: truTV HD
+http://listamy.com:8080/stream17/stream17/328399
+#EXTINF:-1,US: beIN Sports HD
+http://listamy.com:8080/stream17/stream17/328400
+#EXTINF:-1,US: WWE
+http://listamy.com:8080/stream17/stream17/328401
+#EXTINF:-1,US: WWE Network FHD
+http://listamy.com:8080/stream17/stream17/328402
+#EXTINF:-1,US: WWE HD
+http://listamy.com:8080/stream17/stream17/328403
+#EXTINF:-1,US: VH1 Classic
+http://listamy.com:8080/stream17/stream17/328404
+#EXTINF:-1,US: VH1 HD
+http://listamy.com:8080/stream17/stream17/328405
+#EXTINF:-1,US: USA Network HD
+http://listamy.com:8080/stream17/stream17/328406
+#EXTINF:-1,US: Network HD
+http://listamy.com:8080/stream17/stream17/328407
+#EXTINF:-1,US: UFC Fight Pass
+http://listamy.com:8080/stream17/stream17/328408
+#EXTINF:-1,US: UNIVERSAL KIDS HD
+http://listamy.com:8080/stream17/stream17/328409
+#EXTINF:-1,US: Olimpic Channel
+http://listamy.com:8080/stream17/stream17/328410
+#EXTINF:-1,US: UNIMAS
+http://listamy.com:8080/stream17/stream17/328411
+#EXTINF:-1,US: UFC TV HD
+http://listamy.com:8080/stream17/stream17/328412
+#EXTINF:-1,US: UFC NETWORK HD
+http://listamy.com:8080/stream17/stream17/328413
+#EXTINF:-1,US: UC TV
+http://listamy.com:8080/stream17/stream17/328414
+#EXTINF:-1,US: Travel Channel HD
+http://listamy.com:8080/stream17/stream17/328415
+#EXTINF:-1,US: TNT HD
+http://listamy.com:8080/stream17/stream17/328416
+#EXTINF:-1,US: TBS HD
+http://listamy.com:8080/stream17/stream17/328417
+#EXTINF:-1,US: TV ONE FHD
+http://listamy.com:8080/stream17/stream17/328418
+#EXTINF:-1,US: TV Land
+http://listamy.com:8080/stream17/stream17/328419
+#EXTINF:-1,US: Travel Channel FHD
+http://listamy.com:8080/stream17/stream17/328420
+#EXTINF:-1,US: THE WEATHER CHANNEL HD
+http://listamy.com:8080/stream17/stream17/328421
+#EXTINF:-1,US: THE SPORTSMAN CHANNEL
+http://listamy.com:8080/stream17/stream17/328422
+#EXTINF:-1,US: The Cowboy Channel (RFD-TV)
+http://listamy.com:8080/stream17/stream17/328423
+#EXTINF:-1,US: SyFy HD
+http://listamy.com:8080/stream17/stream17/328424
+#EXTINF:-1,US: Starz Edge FHD
+http://listamy.com:8080/stream17/stream17/328425
+#EXTINF:-1,US: Starz East FHD
+http://listamy.com:8080/stream17/stream17/328426
+#EXTINF:-1,US: Starz Comedy FHD
+http://listamy.com:8080/stream17/stream17/328427
+#EXTINF:-1,US: Starz Cinema FHD
+http://listamy.com:8080/stream17/stream17/328429
+#EXTINF:-1,US: Starz Cinema East HD
+http://listamy.com:8080/stream17/stream17/328430
+#EXTINF:-1,US: Spike TV HD
+http://listamy.com:8080/stream17/stream17/328431
+#EXTINF:-1,US: Spike HD
+http://listamy.com:8080/stream17/stream17/328432
+#EXTINF:-1,US: Sundance TV FHD
+http://listamy.com:8080/stream17/stream17/328433
+#EXTINF:-1,US: Starz West HD
+http://listamy.com:8080/stream17/stream17/328434
+#EXTINF:-1,US: Starz Kids & Family 24/7 HD
+http://listamy.com:8080/stream17/stream17/328435
+#EXTINF:-1,US: Starz Black HD
+http://listamy.com:8080/stream17/stream17/328436
+#EXTINF:-1,US: Starz West FHD
+http://listamy.com:8080/stream17/stream17/328437
+#EXTINF:-1,US: Starz FHD
+http://listamy.com:8080/stream17/stream17/328438
+#EXTINF:-1,US: Starz Family FHD
+http://listamy.com:8080/stream17/stream17/328439
+#EXTINF:-1,US: Starz Encore Western FHD
+http://listamy.com:8080/stream17/stream17/328440
+#EXTINF:-1,US: Starz Encore
+http://listamy.com:8080/stream17/stream17/328441
+#EXTINF:-1,US: Starz Encore Suspense FHD
+http://listamy.com:8080/stream17/stream17/328442
+#EXTINF:-1,US: Starz Encore FHD
+http://listamy.com:8080/stream17/stream17/328443
+#EXTINF:-1,US: Starz Encore Classic FHD
+http://listamy.com:8080/stream17/stream17/328444
+#EXTINF:-1,US: Starz Encore Action HD
+http://listamy.com:8080/stream17/stream17/328445
+#EXTINF:-1,US: Starz Encore 2 East FHD
+http://listamy.com:8080/stream17/stream17/328446
+#EXTINF:-1,US: Starz Black FHD
+http://listamy.com:8080/stream17/stream17/328447
+#EXTINF:-1,US: Showtime West HD
+http://listamy.com:8080/stream17/stream17/328448
+#EXTINF:-1,US: Showtime Showcase FHD
+http://listamy.com:8080/stream17/stream17/328449
+#EXTINF:-1,US: Showtime FHD
+http://listamy.com:8080/stream17/stream17/328450
+#EXTINF:-1,US: Showtime East HD
+http://listamy.com:8080/stream17/stream17/328451
+#EXTINF:-1,US: SEC Network HD
+http://listamy.com:8080/stream17/stream17/328452
+#EXTINF:-1,US: SNY HD
+http://listamy.com:8080/stream17/stream17/328453
+#EXTINF:-1,US: Showtime Extreme FHD
+http://listamy.com:8080/stream17/stream17/328454
+#EXTINF:-1,US: SHOWTIME (West) HD
+http://listamy.com:8080/stream17/stream17/328455
+#EXTINF:-1,US: Reelz HD
+http://listamy.com:8080/stream17/stream17/328456
+#EXTINF:-1,US: RT DOCUMENTARY
+http://listamy.com:8080/stream17/stream17/328457
+#EXTINF:-1,US: RT America HD
+http://listamy.com:8080/stream17/stream17/328458
+#EXTINF:-1,US: Reelz Channel HD
+http://listamy.com:8080/stream17/stream17/328459
+#EXTINF:-1,US: RED BULL TV FHD
+http://listamy.com:8080/stream17/stream17/328460
+#EXTINF:-1,US: PARAMOUNT
+http://listamy.com:8080/stream17/stream17/328461
+#EXTINF:-1,US: PAC-12 Washington FHD
+http://listamy.com:8080/stream17/stream17/328462
+#EXTINF:-1,US: PAC-12 Oregon FHD
+http://listamy.com:8080/stream17/stream17/328463
+#EXTINF:-1,US: PAC-12 Los Angeles FHD
+http://listamy.com:8080/stream17/stream17/328464
+#EXTINF:-1,US: PAC-12 Bay Area
+http://listamy.com:8080/stream17/stream17/328465
+#EXTINF:-1,US: OWN FHD
+http://listamy.com:8080/stream17/stream17/328466
+#EXTINF:-1,US: CineMax OuterMax FHD
+http://listamy.com:8080/stream17/stream17/328467
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://listamy.com:8080/stream17/stream17/328468
+#EXTINF:-1,US: Outdoor Channel HD
+http://listamy.com:8080/stream17/stream17/328469
+#EXTINF:-1,US: Oprah Winfrey Network HD
+http://listamy.com:8080/stream17/stream17/328470
+#EXTINF:-1,US: NICK JR
+http://listamy.com:8080/stream17/stream17/328471
+#EXTINF:-1,US: NBCSN FHD
+http://listamy.com:8080/stream17/stream17/328472
+#EXTINF:-1,US: NBCSN (North West) HD
+http://listamy.com:8080/stream17/stream17/328473
+#EXTINF:-1,US: NICK Junior
+http://listamy.com:8080/stream17/stream17/328474
+#EXTINF:-1,US: NatGeo
+http://listamy.com:8080/stream17/stream17/328475
+#EXTINF:-1,US: NatGeo HD
+http://listamy.com:8080/stream17/stream17/328476
+#EXTINF:-1,US: NatGeo Wild HD
+http://listamy.com:8080/stream17/stream17/328477
+#EXTINF:-1,US: NHL Network
+http://listamy.com:8080/stream17/stream17/328478
+#EXTINF:-1,US: NHL Network HD
+http://listamy.com:8080/stream17/stream17/328479
+#EXTINF:-1,US: NFL Now HD VIP
+http://listamy.com:8080/stream17/stream17/328480
+#EXTINF:-1,US: NFL Now HD
+http://listamy.com:8080/stream17/stream17/328481
+#EXTINF:-1,US: NFL Red Zone (Match time only)
+http://listamy.com:8080/stream17/stream17/328482
+#EXTINF:-1,US: NFL Network HD
+http://listamy.com:8080/stream17/stream17/328483
+#EXTINF:-1,US: NFL Network FHD
+http://listamy.com:8080/stream17/stream17/328484
+#EXTINF:-1,US: NFL Network 1
+http://listamy.com:8080/stream17/stream17/328485
+#EXTINF:-1,US: NBCSN HD VIP
+http://listamy.com:8080/stream17/stream17/328486
+#EXTINF:-1,US: NBCSN HD
+http://listamy.com:8080/stream17/stream17/328487
+#EXTINF:-1,US: NBC
+http://listamy.com:8080/stream17/stream17/328488
+#EXTINF:-1,US: NBC San Diego HD
+http://listamy.com:8080/stream17/stream17/328489
+#EXTINF:-1,US: NBC News HD
+http://listamy.com:8080/stream17/stream17/328490
+#EXTINF:-1,US: NBC Golf HD
+http://listamy.com:8080/stream17/stream17/328491
+#EXTINF:-1,US: NBC Golf FHD
+http://listamy.com:8080/stream17/stream17/328492
+#EXTINF:-1,US: NBA HD
+http://listamy.com:8080/stream17/stream17/328493
+#EXTINF:-1,US: Sportsnet West HD
+http://listamy.com:8080/stream17/stream17/328494
+#EXTINF:-1,US: Sportsnet Ontario HD
+http://listamy.com:8080/stream17/stream17/328495
+#EXTINF:-1,US: Sportsnet East HD
+http://listamy.com:8080/stream17/stream17/328496
+#EXTINF:-1,US: Sportsnet 360 HD
+http://listamy.com:8080/stream17/stream17/328497
+#EXTINF:-1,US: MTV HD
+http://listamy.com:8080/stream17/stream17/328502
+#EXTINF:-1,US: MSNBC FHD
+http://listamy.com:8080/stream17/stream17/328503
+#EXTINF:-1,US: MSG (match time)
+http://listamy.com:8080/stream17/stream17/328504
+#EXTINF:-1,US: MoviePlex HD
+http://listamy.com:8080/stream17/stream17/328505
+#EXTINF:-1,US: MovieMax HD
+http://listamy.com:8080/stream17/stream17/328506
+#EXTINF:-1,US: MoreMax FHD
+http://listamy.com:8080/stream17/stream17/328507
+#EXTINF:-1,US: MTV Rocks
+http://listamy.com:8080/stream17/stream17/328508
+#EXTINF:-1,US:MTV Base HD
+http://listamy.com:8080/stream17/stream17/328509
+#EXTINF:-1,US: MLB Network HD
+http://listamy.com:8080/stream17/stream17/328510
+#EXTINF:-1,US: MLB HD
+http://listamy.com:8080/stream17/stream17/328511
+#EXTINF:-1,US: Lifetime HD
+http://listamy.com:8080/stream17/stream17/328512
+#EXTINF:-1,US: IndiePlex HD
+http://listamy.com:8080/stream17/stream17/328513
+#EXTINF:-1,US: Investigation Discovery HD
+http://listamy.com:8080/stream17/stream17/328514
+#EXTINF:-1,US: IFC HD
+http://listamy.com:8080/stream17/stream17/328515
+#EXTINF:-1,US: History HD
+http://listamy.com:8080/stream17/stream17/328516
+#EXTINF:-1,US: Hallmark
+http://listamy.com:8080/stream17/stream17/328517
+#EXTINF:-1,US: Hallmark Channel HD
+http://listamy.com:8080/stream17/stream17/328518
+#EXTINF:-1,US: HGTV
+http://listamy.com:8080/stream17/stream17/328519
+#EXTINF:-1,US: HGTV HD
+http://listamy.com:8080/stream17/stream17/328520
+#EXTINF:-1,US: HBO Family FHD
+http://listamy.com:8080/stream17/stream17/328521
+#EXTINF:-1,US: HBO 2 East
+http://listamy.com:8080/stream17/stream17/328522
+#EXTINF:-1,US: HBO 2 Comedy
+http://listamy.com:8080/stream17/stream17/328523
+#EXTINF:-1,US: HBO Zone FHD
+http://listamy.com:8080/stream17/stream17/328524
+#EXTINF:-1,US: HBO Signature
+http://listamy.com:8080/stream17/stream17/328525
+#EXTINF:-1,US: HBO HD
+http://listamy.com:8080/stream17/stream17/328526
+#EXTINF:-1,US: HBO Family HD
+http://listamy.com:8080/stream17/stream17/328527
+#EXTINF:-1,US: HBO East HD
+http://listamy.com:8080/stream17/stream17/328528
+#EXTINF:-1,US: HBO Comedy HD
+http://listamy.com:8080/stream17/stream17/328529
+#EXTINF:-1,US: HBO 2 West FHD
+http://listamy.com:8080/stream17/stream17/328530
+#EXTINF:-1,US: HBO 2 FHD
+http://listamy.com:8080/stream17/stream17/328531
+#EXTINF:-1,US: GSN HD
+http://listamy.com:8080/stream17/stream17/328532
+#EXTINF:-1,US: GRIT TV Movies HD
+http://listamy.com:8080/stream17/stream17/328533
+#EXTINF:-1,US:The Golf Channel
+http://listamy.com:8080/stream17/stream17/328534
+#EXTINF:-1,US: Fuel HD
+http://listamy.com:8080/stream17/stream17/328535
+#EXTINF:-1,US: FreeForm HD
+http://listamy.com:8080/stream17/stream17/328536
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+http://listamy.com:8080/stream17/stream17/328537
+#EXTINF:-1,US: Fox Sports San Diego HD
+http://listamy.com:8080/stream17/stream17/328538
+#EXTINF:-1,US: FOX 43 HD
+http://listamy.com:8080/stream17/stream17/328539
+#EXTINF:-1,US: Fox Sports (South) HD
+http://listamy.com:8080/stream17/stream17/328540
+#EXTINF:-1,US: Fox Sports (North) HD
+http://listamy.com:8080/stream17/stream17/328541
+#EXTINF:-1,US: Fox Sports HD
+http://listamy.com:8080/stream17/stream17/328542
+#EXTINF:-1,US: Fox Sports (Florida) HD
+http://listamy.com:8080/stream17/stream17/328543
+#EXTINF:-1,US: Fox Sports (Detroit) HD
+http://listamy.com:8080/stream17/stream17/328544
+#EXTINF:-1,US: Fox Sports Cincinnati HD
+http://listamy.com:8080/stream17/stream17/328545
+#EXTINF:-1,US: Fox Sports Carolina HD
+http://listamy.com:8080/stream17/stream17/328546
+#EXTINF:-1,US: Fox Sports 2 HD VIP
+http://listamy.com:8080/stream17/stream17/328547
+#EXTINF:-1,US: Fox Sports 2 HD
+http://listamy.com:8080/stream17/stream17/328548
+#EXTINF:-1,US: Fox Sports 2 FHD
+http://listamy.com:8080/stream17/stream17/328549
+#EXTINF:-1,US: Fox Sports 1 FHD
+http://listamy.com:8080/stream17/stream17/328550
+#EXTINF:-1,US: Fox Sports 1 HD
+http://listamy.com:8080/stream17/stream17/328551
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://listamy.com:8080/stream17/stream17/328552
+#EXTINF:-1,US: Fox Deportes HD
+http://listamy.com:8080/stream17/stream17/328553
+#EXTINF:-1,US: Fox News HD
+http://listamy.com:8080/stream17/stream17/328554
+#EXTINF:-1,US: Fox HD
+http://listamy.com:8080/stream17/stream17/328555
+#EXTINF:-1,US: Food Network FHD
+http://listamy.com:8080/stream17/stream17/328556
+#EXTINF:-1,US: Food Network HD
+http://listamy.com:8080/stream17/stream17/328557
+#EXTINF:-1,US: Fine Living HD
+http://listamy.com:8080/stream17/stream17/328558
+#EXTINF:-1,US: Fight Sport HD
+http://listamy.com:8080/stream17/stream17/328559
+#EXTINF:-1,US: Fight HD
+http://listamy.com:8080/stream17/stream17/328560
+#EXTINF:-1,US: GRIT HD
+http://listamy.com:8080/stream17/stream17/328561
+#EXTINF:-1,US: FX HD
+http://listamy.com:8080/stream17/stream17/328562
+#EXTINF:-1,US: FOX 43
+http://listamy.com:8080/stream17/stream17/328563
+#EXTINF:-1,US: ESPN News HD
+http://listamy.com:8080/stream17/stream17/328564
+#EXTINF:-1,US: ESPN Network HD
+http://listamy.com:8080/stream17/stream17/328565
+#EXTINF:-1,US: ESPN U HD
+http://listamy.com:8080/stream17/stream17/328566
+#EXTINF:-1,US: ESPN 1 HD
+http://listamy.com:8080/stream17/stream17/328567
+#EXTINF:-1,US: ESPN 2 VIP
+http://listamy.com:8080/stream17/stream17/328568
+#EXTINF:-1,US: ESPN 2 HD
+http://listamy.com:8080/stream17/stream17/328569
+#EXTINF:-1,US: ESPN 2 FHD VIP
+http://listamy.com:8080/stream17/stream17/328570
+#EXTINF:-1,US: ESPN 2 FHD
+http://listamy.com:8080/stream17/stream17/328571
+#EXTINF:-1,US: ESPN 1 VIP
+http://listamy.com:8080/stream17/stream17/328572
+#EXTINF:-1,US: ESPN 1 FHD
+http://listamy.com:8080/stream17/stream17/328573
+#EXTINF:-1,US: ESPN 3 FHD
+http://listamy.com:8080/stream17/stream17/328574
+#EXTINF:-1,US: El Rey Network FHD
+http://listamy.com:8080/stream17/stream17/328575
+#EXTINF:-1,US: E! Entertainment HD
+http://listamy.com:8080/stream17/stream17/328576
+#EXTINF:-1,US: E! Entertainment FHD
+http://listamy.com:8080/stream17/stream17/328577
+#EXTINF:-1,US: District of Columbia Network
+http://listamy.com:8080/stream17/stream17/328578
+#EXTINF:-1,US: District Knowledge Network
+http://listamy.com:8080/stream17/stream17/328579
+#EXTINF:-1,US: DISNEY XD FHD
+http://listamy.com:8080/stream17/stream17/328580
+#EXTINF:-1,US: DISNEY JR. HD
+http://listamy.com:8080/stream17/stream17/328581
+#EXTINF:-1,US: DISNEY CHANNEL FHD
+http://listamy.com:8080/stream17/stream17/328582
+#EXTINF:-1,US: DEPORTES HD
+http://listamy.com:8080/stream17/stream17/328583
+#EXTINF:-1,US: DAYSTAR HD
+http://listamy.com:8080/stream17/stream17/328584
+#EXTINF:-1,US: Disney XD HD
+http://listamy.com:8080/stream17/stream17/328585
+#EXTINF:-1,US: Disney Channel HD
+http://listamy.com:8080/stream17/stream17/328586
+#EXTINF:-1,US: Discovery Velocity HD VIP
+http://listamy.com:8080/stream17/stream17/328587
+#EXTINF:-1,US: Discovery Science HD
+http://listamy.com:8080/stream17/stream17/328588
+#EXTINF:-1,US: Discovery HD
+http://listamy.com:8080/stream17/stream17/328589
+#EXTINF:-1,US: NatGeo Wild
+http://listamy.com:8080/stream17/stream17/328590
+#EXTINF:-1,US: Discovery Channel HD
+http://listamy.com:8080/stream17/stream17/328591
+#EXTINF:-1,US: Discovery Channel CA FHD
+http://listamy.com:8080/stream17/stream17/328592
+#EXTINF:-1,US: DW
+http://listamy.com:8080/stream17/stream17/328593
+#EXTINF:-1,US: DIY Network
+http://listamy.com:8080/stream17/stream17/328594
+#EXTINF:-1,US: DIY Network HD
+http://listamy.com:8080/stream17/stream17/328595
+#EXTINF:-1,US: Comedy Central FHD
+http://listamy.com:8080/stream17/stream17/328596
+#EXTINF:-1,US: Comedy Central HD VIP
+http://listamy.com:8080/stream17/stream17/328597
+#EXTINF:-1,US: Comedy Central HD
+http://listamy.com:8080/stream17/stream17/328598
+#EXTINF:-1,US: Cinemax West FHD
+http://listamy.com:8080/stream17/stream17/328599
+#EXTINF:-1,US: Cinemax More FHD
+http://listamy.com:8080/stream17/stream17/328600
+#EXTINF:-1,US: Cinemax More HD
+http://listamy.com:8080/stream17/stream17/328601
+#EXTINF:-1,US: CineMax MoreMax
+http://listamy.com:8080/stream17/stream17/328602
+#EXTINF:-1,US: CineMax East ..
+http://listamy.com:8080/stream17/stream17/328603
+#EXTINF:-1,US: Cinemax East FHD
+http://listamy.com:8080/stream17/stream17/328604
+#EXTINF:-1,US: CineMax ActionMax East
+http://listamy.com:8080/stream17/stream17/328605
+#EXTINF:-1,US: Cinemax Action
+http://listamy.com:8080/stream17/stream17/328606
+#EXTINF:-1,US: Cinemax Action FHD
+http://listamy.com:8080/stream17/stream17/328607
+#EXTINF:-1,US: Cinemax Action East FHD
+http://listamy.com:8080/stream17/stream17/328608
+#EXTINF:-1,US: Cinemax Action 2 HD
+http://listamy.com:8080/stream17/stream17/328609
+#EXTINF:-1,US: Cartoon Network HD
+http://listamy.com:8080/stream17/stream17/328610
+#EXTINF:-1,US: CW 11
+http://listamy.com:8080/stream17/stream17/328611
+#EXTINF:-1,US: CW FHD VIP Charlotte
+http://listamy.com:8080/stream17/stream17/328612
+#EXTINF:-1,US: CW HD
+http://listamy.com:8080/stream17/stream17/328613
+#EXTINF:-1,US: CW
+http://listamy.com:8080/stream17/stream17/328614
+#EXTINF:-1,US: CW Network
+http://listamy.com:8080/stream17/stream17/328615
+#EXTINF:-1,US: CSN BAY AREA HD
+http://listamy.com:8080/stream17/stream17/328616
+#EXTINF:-1,US: COOKING CHANNEL FHD
+http://listamy.com:8080/stream17/stream17/328617
+#EXTINF:-1,US: Comedy
+http://listamy.com:8080/stream17/stream17/328618
+#EXTINF:-1,US: CNN INTERNATIONAL
+http://listamy.com:8080/stream17/stream17/328619
+#EXTINF:-1,US: CNBC HD
+http://listamy.com:8080/stream17/stream17/328620
+#EXTINF:-1,US: CINEMAX MOREMAX FHD
+http://listamy.com:8080/stream17/stream17/328621
+#EXTINF:-1,US: CBSN News HD
+http://listamy.com:8080/stream17/stream17/328622
+#EXTINF:-1,US: CBS Sports Network HD
+http://listamy.com:8080/stream17/stream17/328623
+#EXTINF:-1,US: CBS REALITY
+http://listamy.com:8080/stream17/stream17/328624
+#EXTINF:-1,US: CAPITAL TV
+http://listamy.com:8080/stream17/stream17/328625
+#EXTINF:-1,US: C-SPAN 3 HD
+http://listamy.com:8080/stream17/stream17/328626
+#EXTINF:-1,US: C-SPAN 2 HD
+http://listamy.com:8080/stream17/stream17/328627
+#EXTINF:-1,US: C-SPAN 1 HD
+http://listamy.com:8080/stream17/stream17/328628
+#EXTINF:-1,US: CNN FHD
+http://listamy.com:8080/stream17/stream17/328629
+#EXTINF:-1,US: CNN HD
+http://listamy.com:8080/stream17/stream17/328630
+#EXTINF:-1,US: CBSN FHD
+http://listamy.com:8080/stream17/stream17/328631
+#EXTINF:-1,US: CBS San Diego HD VIP
+http://listamy.com:8080/stream17/stream17/328632
+#EXTINF:-1,US: CBS Action
+http://listamy.com:8080/stream17/stream17/328633
+#EXTINF:-1,US: C-Span 3
+http://listamy.com:8080/stream17/stream17/328634
+#EXTINF:-1,US: C-Span 2
+http://listamy.com:8080/stream17/stream17/328635
+#EXTINF:-1,US: C-Span 1
+http://listamy.com:8080/stream17/stream17/328636
+#EXTINF:-1,US: BYU TV
+http://listamy.com:8080/stream17/stream17/328637
+#EXTINF:-1,US: BOX OFFICE MOVIES
+http://listamy.com:8080/stream17/stream17/328638
+#EXTINF:-1,US: BLAZE
+http://listamy.com:8080/stream17/stream17/328639
+#EXTINF:-1,US: Bravo HD
+http://listamy.com:8080/stream17/stream17/328640
+#EXTINF:-1,US: Boomerang HD
+http://listamy.com:8080/stream17/stream17/328641
+#EXTINF:-1,US: Bloomberg TV HD
+http://listamy.com:8080/stream17/stream17/328642
+#EXTINF:-1,US: Bloomberg HD
+http://listamy.com:8080/stream17/stream17/328643
+#EXTINF:-1,US: Atlanta Channel
+http://listamy.com:8080/stream17/stream17/328644
+#EXTINF:-1,US: A&E TV HD
+http://listamy.com:8080/stream17/stream17/328645
+#EXTINF:-1,US: ADULT SWIM
+http://listamy.com:8080/stream17/stream17/328646
+#EXTINF:-1,US: ACTION MAX HD
+http://listamy.com:8080/stream17/stream17/328647
+#EXTINF:-1,US: Animal Planet HD
+http://listamy.com:8080/stream17/stream17/328648
+#EXTINF:-1,US: AMC HD
+http://listamy.com:8080/stream17/stream17/328649
+#EXTINF:-1,US: ABC News HD
+http://listamy.com:8080/stream17/stream17/328650
+#EXTINF:-1,US: ABC HD
+http://listamy.com:8080/stream17/stream17/328651
+#EXTINF:-1,US: ABC 6 (NJ/PA) HD
+http://listamy.com:8080/stream17/stream17/328652
+#EXTINF:-1,US: ABC (West) HD
+http://listamy.com:8080/stream17/stream17/328653
+#EXTINF:-1,US: A&E HD
+http://listamy.com:8080/stream17/stream17/328654
+#EXTINF:-1,US: 5 USA
+http://listamy.com:8080/stream17/stream17/328655
+#EXTINF:-1,US: CineMax 5 Star Max FHD
+http://listamy.com:8080/stream17/stream17/328656
+#EXTINF:-1,US: WORLD FISHING NETWORK
+http://listamy.com:8080/stream17/stream17/328657
