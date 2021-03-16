@@ -1,3 +1,4 @@
+₿  
 ### Introduction to Crypto
 
 {% include Introduction.md %}
