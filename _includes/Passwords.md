@@ -1,3 +1,4 @@
+🔒  
 Yeah... I'm sorry. This has to be first because almost everyone gets it wrong. 
 
   - No, you're not supposed to use one password for everything.
