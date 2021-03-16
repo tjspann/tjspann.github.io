@@ -1,10 +1,10 @@
 ### Table of Contents  
 [Introduction](#introduction)  
 [Passwords](#passwords)  
-[EMail](#email)  
+[Email](#email)  
 [Messengers](#messengers)  
 [Cryptocurrency](#cryptocurrency)  
-[Other Deals](#other-deals)    
+[Other Deals](#other)    
 [About](#about)  
 
 ### Introduction
@@ -15,7 +15,7 @@
 
 {% include Passwords.md %}
 
-### EMail
+### Email
 
 {% include Email.md %}
 
@@ -27,7 +27,7 @@
 
 {% include Cryptocurrency.md %}
 
-### Other Deals
+### Other
 
 {% include Deals.md %}
 
