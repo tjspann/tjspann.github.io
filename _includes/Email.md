@@ -1,0 +1,3 @@
+Email is one of those things that has been around for pretty much the entire time the internet has existed... more or less unchanged. In that time we've added encryption, or made it standard, on the web itself, communication, data storage, your phone, and countless other things. Yet Email remains mostly unchanged. We've built countless other fairly important things that all also rely on your email. Yet Email remains mostly unchanged. So if you have to use Email, use an Email service that at least offers you encryption, like Protonmail. If you can authenticate some other way, that's even better.
+
+That's it. That's all.
