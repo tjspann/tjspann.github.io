@@ -7,31 +7,23 @@
 [Other Deals](#other)    
 [About](#about)  
 
-### Introduction
-<i class="fa fa-camera-retro"></i> fa-camera-retro
-
+### Introduction  
 {% include Introduction.md %}
 
-### Passwords
-
+### Passwords  
 {% include Passwords.md %}
 
-### Email
-
+### Email  
 {% include Email.md %}
 
-### Messengers
-
+### Messengers  
 {% include Messengers.md %}
 
-### Cryptocurrency
-
+### Cryptocurrency  
 {% include Cryptocurrency.md %}
 
-### Other
-
+### Other  
 {% include Deals.md %}
 
-### About
-
+### About  
 {% include About.md %}
