@@ -1,36 +1,35 @@
 ### Table of Contents  
-[Introduction](#introduction-to-crypto)  
-[What is Crytocurrency](#what-is-cryptocurreny)  
-[Exchanges](#exchanges)  
-[Wallets](#wallets)  
-[Faucets](#faucets)  
-[Airdrops](#airdrops)  
-[Games / DApps](#games-and-dapps)  
+[Introduction](#introduction)  
+[Passwords](#passwords)  
+[E-Mail](#e-mail)  
+[Messengers](#messengers)
+[Cryptocurrency](#cryptocurrency)  
+[Other Deals](#other-deals)    
 [About](#about)  
 
-### Introduction to Crypto
+### Introduction
 
 {% include Introduction.md %}
 
-### What is Cryptocurreny
+### Passwords
 
-{% include WhatisThis.md %}
+{% include Passwords.md %}
 
-### Exchanges
+### E-Mail
 
-{% include Exchanges.md %}
+{% include Email.md %}
 
-### Wallets
+### Messengers
 
-{% include Wallets.md %}
+{% include Messengers.md %}
 
-### Faucets
+### Cryptocurrency
 
-{% include Faucets.md %}
+{% include Cryptocurrency.md %}
 
-### Airdrops
+### Other Deals
 
-### Games and DApps
+{% include Deals.md %}
 
 ### About
 
