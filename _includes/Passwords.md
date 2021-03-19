@@ -1,4 +1,4 @@
-🔒  
+# 🔒  
 Yeah... I'm sorry. This has to be first because almost everyone gets it wrong. 
 
   - No, you're not supposed to use one password for everything.
@@ -9,4 +9,4 @@ Look, at the end of the day most people don't think having a solid password coun
 
 So yes: you have to have a secure password. No: you can't write it down or memorize it. So what do you do? You get a free password manager. Here's a video to help you wrap your head around the problem... and solution:  
 
-    <iframe width="560" height="315" src="https://youtu.be/wcDtLMraTkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://yt-embed.herokuapp.com/embed?v=wcDtLMraTkQ)](https://www.youtube.com/watch?v=wcDtLMraTkQ)
