@@ -18,7 +18,3 @@
 ### Airdrops
 
 ### Games and DApps
-
-### About
-
-{% include About.md %}
