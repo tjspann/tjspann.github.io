@@ -1,4 +1,4 @@
-✨  
+# ✨  
 So you've recently found being a good cyber citizen is no longer as easy? Maybe you're being left behind by an economy turbocharged by fast everything and easy money (for everyone except you.) Or maybe you've recently been hacked for an unspeakable sum of money. Have you had all your files locked and held for ransom... on your own computer? Or maybe someone found your Apple password and posted some sensitive images of you on the internet? Really just this paragraph could be never-ending. Whatever the case, you've had a crash course in the value of cryptography recently. 
 
 Or maybe you're here to avoid that crash course by better preparing yourself. For far too long people have acted as if they "have nothing to hide" or nothing important to secure on the internet. But that's not true: if you shop online, or get your bills paperlessly, or use a smartphone you're leaving valuable data exposed to someone. What they do with it isn't always straightforward, and the ways you can be harmed are not always obvious up front.
