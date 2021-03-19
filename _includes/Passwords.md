@@ -9,4 +9,11 @@ Look, at the end of the day most people don't think having a solid password coun
 
 So yes: you have to have a secure password. No: you can't write it down or memorize it. So what do you do? You get a free password manager. Here's a video to help you wrap your head around the problem... and solution:  
 
-[![IMAGE ALT TEXT HERE](https://yt-embed.herokuapp.com/embed?v=wcDtLMraTkQ)](https://www.youtube.com/watch?v=wcDtLMraTkQ)
+[![Password-Manager](https://yt-embed.herokuapp.com/embed?v=wcDtLMraTkQ)](https://www.youtube.com/watch?v=wcDtLMraTkQ)
+
+I have a paid password manager. Used to I would say get a paid password manager. Now my lifetime paid professional subscription to a password manager is trying to sell me premium add-ons, so just get a free one. Here are some good places to start:
+
+  - [The Best Free Password Manager - The Verge](https://www.theverge.com/22311182/best-free-password-manager-bitwarden-zoho-vault-roboform-sticky-password)  
+  - [Mastering your Password Manager](https://www.pcworld.com/article/3611461/mastering-your-password-manager-5-must-know-tips.html)  
+
+I don't really have a preference here. If you don't read above you wont have a good place to store all your sensitive information though so read up on this one. Make sure your master password or seed phrase is something you can memorize, but not something simple and if you must write it down, put it in a safe. Yes, it's that serious. Good luck!
