@@ -1,4 +1,4 @@
-You can think of crypto networks in the same way as you think of the banking network... probably not at all, Here's an explainer 👇
+You can think of crypto networks in the same way as you think of the banking network... probably not at all, it just works. Here's an explainer 👇
 
 [![Bitcoin Explained Simply](https://yt-embed.herokuapp.com/embed?v=gL6i-ef2sKc)](https://youtu.be/gL6i-ef2sKc)
 
