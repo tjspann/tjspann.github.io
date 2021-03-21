@@ -2,7 +2,7 @@ Cryptocurrency exchanges are online platforms in which you can exchange one kind
 
 - [Coinbase](https://www.coinbase.com/): Right up front on their website they offer $5 USD in BTC, just for signing up. See, I told you there was free money involved. Want more? [Use this link instead](https://www.coinbase.com/join/spann_z7n) and instead of a free $5, we will both get $10 USD in BTC after you buy or transfer $100 USD worth of cash or crypto through your account. It's a little more work for double the free BTC. Still want more? Check out Coinbase Earn,
 
-- [Kraken](): More features than most folks will ever have the need of using. 
+- [Kraken](): More features than most folks will ever have the need of using. Learn about crypto with a massive video archive, stake a nice range of crypto, margin trading and more. I'm staking Polkadot here.
 
 - [Binance US](https://binance.us): Seems to have a good mix of crypto but doesn't have all of Binance's features on the global market.
 
