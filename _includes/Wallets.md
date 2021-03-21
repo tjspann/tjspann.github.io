@@ -3,4 +3,6 @@ A cryptocurrency wallet is a device, physical medium, program or a service which
 * Decenteralized Application Wallets
   
   - [Metamask](https://metamask.io/): Metamask is available on PC via browser extensions so if you'd like to be able to use your wallet from your desktop this is a good choice. Also nobody pointed out to me lots of sites and dApps support just logging in with Metamask... which allows seperate wallets for everything.
-  - [Tronlink](https://www.tronlink.org): Tron Blockchain dApp Wallet. This one also allows wallet login on supported sites. 
+  - [Tronlink](https://www.tronlink.org): Tron blockchain dApp Wallet. This one also allows wallet login on supported sites. 
+  - [Coinbase Wallet](https://wallet.coinbase.com): Coinbase's Ethereum blockchain wallet. This one is Android or iOS specific.
+
