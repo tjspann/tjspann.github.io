@@ -11,10 +11,4 @@
 
 {% include Wallets.md %}
 
-### Faucets
-
-{% include Faucets.md %}
-
-### Airdrops
-
 ### Games and DApps
