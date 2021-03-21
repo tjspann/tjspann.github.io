@@ -4,7 +4,7 @@ Cryptocurrency exchanges are online platforms in which you can exchange one kind
 
 - [Kraken](): More features than most folks will ever have the need of using. Learn about crypto with a massive video archive, stake a nice range of crypto, margin trading and more. I'm staking Polkadot here.
 
-- [Binance US](https://binance.us): Seems to have a good mix of crypto but doesn't have all of Binance's features on the global market. Use 52181112 as the optional referral ID and some of the fees they take from you will instead be paid into my account. You'll still get charged but at least they don't take it all and you'll be helping someone out who helped you! 
+- [Binance US](https://binance.us): Seems to have a good mix of crypto but doesn't have all of Binance's features on the global market. Use 52181112 as the optional referral ID and some of the fees they take from you will instead be paid into my account. You'll still get charged but at least they don't take it all and you'll be helping someone out who helped you! 😆
 
 ---
 
