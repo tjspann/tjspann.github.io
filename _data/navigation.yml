@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Blog"
+  - title: "By Year"
     url: /year-archive/
-  #- title: "Collections"
-  #  url: /collection-archive/
-  - title: "Tutorials"
-    url: /howto.md
+  - title: "By Category"
+    url: /categories/
+  - title: "By Tag"
+    url: /tags/
+  - title: "Collections"
+    url: /collection-archive/
