@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "Tutorials"
-    url: /tutorial-archive/
+  #- title: "Collections"
+  #  url: /collection-archive/
+  #- title: "Tutorials"
+  #  url: /tutorial-archive/

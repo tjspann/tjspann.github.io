@@ -14,8 +14,6 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-include: ["_pages"]
-
 # Site Settings
 locale                   : "en-US"
 title                    : "TSpann"
@@ -278,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: false
+      share: false
       related: true
