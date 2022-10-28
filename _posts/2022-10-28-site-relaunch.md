@@ -2,6 +2,7 @@
 title:  "Site Relaunch"
 header:
   teaser: "/assets/images/web-design.png"
+layout: single
 categories: 
   - site
 tags:

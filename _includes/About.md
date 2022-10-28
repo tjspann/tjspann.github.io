@@ -1,3 +1,0 @@
-As a former broadcast engineer and corporate IT specialist, I understand the value of good cryptography. I'm not some big corporate entity or a scammer trying to make off with any of your money - I'm a regular person just like you. I personally deal with every site listed here. For all products listed I plan to eventually do reviews to ensure that I can inform you of what you'll encounter. 
-
-I do not have any kind of professional relationship with any entity listed. Additionally, only links explicitly stated to benefit me in some way (referral links) earn me any kind of reward from any named entity or party. My views are my own. Not financial advice.
