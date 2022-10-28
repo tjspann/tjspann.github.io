@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TJ Spann"
 description              : "This is my website. I'll probably completely change it again in 15 minutes."
-url                      : ""
+url                      : "/about"
 baseurl                  : "/"
 repository               : "tjspann/tjspann.github.io"
 teaser                   : "/assets/images/missing-header.png"
