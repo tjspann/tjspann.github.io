@@ -3,9 +3,9 @@ title:  "Site Relaunch"
 header:
   teaser: "/assets/images/web-design.png"
 categories: 
-  - site
-tags:
   - web
+tags:
+  - website
   - tspann
 ---
 

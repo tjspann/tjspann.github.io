@@ -4,5 +4,5 @@ main:
     url: /year-archive/
   #- title: "Collections"
   #  url: /collection-archive/
-  #- title: "Tutorials"
-  #  url: /tutorials.md
+  - title: "Tutorials"
+    url: /howto.md
