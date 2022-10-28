@@ -14,6 +14,8 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+include: ["_pages"]
+
 # Site Settings
 locale                   : "en-US"
 title                    : "TSpann"
@@ -24,7 +26,7 @@ description              : "This is my website. I'll probably completely change 
 url                      : "tspann.us"
 baseurl                  : "/"
 repository               : "tjspann/tjspann.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/missing-header.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -107,14 +109,14 @@ show_downloads: false
 author:
   name             : "TJ Spann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an independant computer tech and engineer. I write code, create automation systems and I also provide inspection and assembly services."
+  bio              : "I am an independant computer tech and engineer. I write code, create advanced compute and automation systems and provide inspection and assembly services."
   location         : "Western Oklahoma"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "tspann.us"
       icon: "fas fa-fw fa-link"
       url: "https://tspann.us"
     - label: "Twitter"
@@ -127,8 +129,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Nextcloud"
+      icon: "fa-solid fa-cloud-arrow-up""
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
